@@ -52,9 +52,6 @@
             <mxPoint x="1080" y="100" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QagVLN1v-uJkTMTgueW_-84" value="服饰商城管理员增加在线帮助信息" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" parent="1" vertex="1">
-          <mxGeometry x="550" y="130" width="20" height="220" as="geometry" />
-        </mxCell>
         <mxCell id="QagVLN1v-uJkTMTgueW_-85" value="服饰商城管理员打印服饰消费者用户信息" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" parent="1" vertex="1">
           <mxGeometry x="900" y="130" width="20" height="260" as="geometry" />
         </mxCell>
@@ -90,9 +87,6 @@
         </mxCell>
         <mxCell id="QagVLN1v-uJkTMTgueW_-108" value="服饰商城管理员信息修改" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" parent="1" vertex="1">
           <mxGeometry x="260" y="130" width="20" height="220" as="geometry" />
-        </mxCell>
-        <mxCell id="QagVLN1v-uJkTMTgueW_-111" value="服饰商城管理员删除在线帮助信息" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" parent="1" vertex="1">
-          <mxGeometry x="600" y="130" width="20" height="220" as="geometry" />
         </mxCell>
         <mxCell id="QagVLN1v-uJkTMTgueW_-112" value="服饰商城管理员查看服饰消费者用户信息" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" parent="1" vertex="1">
           <mxGeometry x="750" y="130" width="20" height="270" as="geometry" />
