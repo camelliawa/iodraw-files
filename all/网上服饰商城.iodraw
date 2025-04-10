@@ -59,7 +59,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="QagVLN1v-uJkTMTgueW_-92" value="服饰商城管理员打印服饰商家用户信息" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" parent="1" vertex="1">
-          <mxGeometry x="950" y="130" width="20" height="260" as="geometry" />
+          <mxGeometry x="720" y="130" width="20" height="260" as="geometry" />
         </mxCell>
         <mxCell id="QagVLN1v-uJkTMTgueW_-96" value="服饰商城管理员备份服饰商城系统数据" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" parent="1" vertex="1">
           <mxGeometry x="1010" y="130" width="20" height="260" as="geometry" />
