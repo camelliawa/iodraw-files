@@ -86,7 +86,7 @@
           <mxGeometry x="550" y="130" width="20" height="270" as="geometry" />
         </mxCell>
         <mxCell id="QagVLN1v-uJkTMTgueW_-113" value="服饰商城管理员查看服饰商家用户信息" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" parent="1" vertex="1">
-          <mxGeometry x="800" y="130" width="20" height="270" as="geometry" />
+          <mxGeometry x="600" y="130" width="20" height="270" as="geometry" />
         </mxCell>
         <mxCell id="QagVLN1v-uJkTMTgueW_-114" value="服饰商城管理员查看服饰信息" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" parent="1" vertex="1">
           <mxGeometry x="850" y="130" width="20" height="230" as="geometry" />
