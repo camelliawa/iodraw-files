@@ -209,7 +209,7 @@
         </mxCell>
         <mxCell id="QZ88AZYE2-59xo4AtTw7-10" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" target="QZ88AZYE2-59xo4AtTw7-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="680" y="180" as="sourcePoint" />
+            <mxPoint x="540" y="180" as="sourcePoint" />
             <mxPoint x="670" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -684,7 +684,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="s31wRdUk8p6lwaCBYaa6" name="商家">
-    <mxGraphModel dx="938" dy="558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1080" dy="816" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
