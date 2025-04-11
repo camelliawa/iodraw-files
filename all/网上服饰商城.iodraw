@@ -539,7 +539,7 @@
         <mxCell id="C0z2NLBH5uiqVtd-vjYi-11" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="175" y="120" as="sourcePoint" />
-            <mxPoint x="965" y="120" as="targetPoint" />
+            <mxPoint x="870" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="C0z2NLBH5uiqVtd-vjYi-12" value="服饰消费者发布评价" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" parent="1" vertex="1">
@@ -658,8 +658,8 @@
         </mxCell>
         <mxCell id="C0z2NLBH5uiqVtd-vjYi-43" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="864.44" y="150" as="sourcePoint" />
-            <mxPoint x="864.44" y="120" as="targetPoint" />
+            <mxPoint x="880" y="150" as="sourcePoint" />
+            <mxPoint x="880" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
