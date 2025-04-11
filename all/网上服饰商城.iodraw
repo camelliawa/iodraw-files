@@ -255,9 +255,6 @@
         <mxCell id="QZ88AZYE2-59xo4AtTw7-23" value="服饰商城管理员信息修改" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" parent="1" vertex="1">
           <mxGeometry x="520" y="240" width="20" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="QZ88AZYE2-59xo4AtTw7-24" value="服饰商城管理员删除账号" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" parent="1" vertex="1">
-          <mxGeometry x="560" y="240" width="20" height="220" as="geometry" />
-        </mxCell>
         <mxCell id="QZ88AZYE2-59xo4AtTw7-25" value="服饰商城管理员删除在线帮助信息" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" parent="1" vertex="1">
           <mxGeometry x="640" y="240" width="20" height="220" as="geometry" />
         </mxCell>
