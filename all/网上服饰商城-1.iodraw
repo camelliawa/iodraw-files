@@ -861,8 +861,8 @@
         <mxCell id="thhnvd3-WBFpuLloXKvf-7" value="验证成功" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="340" width="80" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="thhnvd3-WBFpuLloXKvf-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="230" width="120" height="60" as="geometry" />
+        <mxCell id="thhnvd3-WBFpuLloXKvf-8" value="访问程序主页" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="260" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
