@@ -697,7 +697,7 @@
             <mxPoint x="475" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Arsh_0nRyPRQvi3n-ikU-8" value="服饰商家查看评价" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" parent="1" vertex="1">
+        <mxCell id="Arsh_0nRyPRQvi3n-ikU-8" value="查看评价" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" parent="1" vertex="1">
           <mxGeometry x="755" y="150" width="20" height="220" as="geometry" />
         </mxCell>
         <mxCell id="Arsh_0nRyPRQvi3n-ikU-9" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
@@ -721,7 +721,7 @@
         <mxCell id="Arsh_0nRyPRQvi3n-ikU-12" value="删除订单" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" parent="1" vertex="1">
           <mxGeometry x="605" y="150" width="20" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="Arsh_0nRyPRQvi3n-ikU-14" value="服饰商家查看订单" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" parent="1" vertex="1">
+        <mxCell id="Arsh_0nRyPRQvi3n-ikU-14" value="查看订单" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" parent="1" vertex="1">
           <mxGeometry x="705" y="150" width="20" height="220" as="geometry" />
         </mxCell>
         <mxCell id="Arsh_0nRyPRQvi3n-ikU-15" value="登录" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" parent="1" vertex="1">
