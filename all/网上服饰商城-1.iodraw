@@ -862,7 +862,10 @@
           <mxGeometry x="170" y="340" width="80" height="70" as="geometry" />
         </mxCell>
         <mxCell id="thhnvd3-WBFpuLloXKvf-8" value="访问程序主页" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="260" width="90" height="30" as="geometry" />
+          <mxGeometry x="165" y="440" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="thhnvd3-WBFpuLloXKvf-9" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="185" y="410" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
