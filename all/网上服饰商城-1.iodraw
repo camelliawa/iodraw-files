@@ -971,9 +971,6 @@
         <mxCell id="JAQjogohWv0Rlp3gif8b-5" value="验证成功" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="340" width="80" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="JAQjogohWv0Rlp3gif8b-6" value="访问程序主页" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="165" y="440" width="90" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="JAQjogohWv0Rlp3gif8b-7" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="170" y="520" width="80" height="40" as="geometry" />
         </mxCell>
@@ -999,20 +996,14 @@
             <mxPoint x="230" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JAQjogohWv0Rlp3gif8b-11" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="JAQjogohWv0Rlp3gif8b-6">
+        <mxCell id="JAQjogohWv0Rlp3gif8b-11" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="210" y="410" as="sourcePoint" />
-            <mxPoint x="220" y="350" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="JAQjogohWv0Rlp3gif8b-12" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="1" source="JAQjogohWv0Rlp3gif8b-6" target="JAQjogohWv0Rlp3gif8b-7">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="230" y="330" as="sourcePoint" />
-            <mxPoint x="230" y="360" as="targetPoint" />
+            <mxPoint x="210" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JAQjogohWv0Rlp3gif8b-13" value="N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="290" y="270" width="30" height="30" as="geometry" />
+          <mxGeometry x="290" y="320" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JAQjogohWv0Rlp3gif8b-14" value="Y" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="210" y="408" width="30" height="30" as="geometry" />
