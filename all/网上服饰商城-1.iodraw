@@ -852,7 +852,7 @@
             <mxPoint x="400" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="thhnvd3-WBFpuLloXKvf-5" value="选择以管理员身份登录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="thhnvd3-WBFpuLloXKvf-5" value="选择以商家身份登录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="180" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="thhnvd3-WBFpuLloXKvf-6" value="输入账号和密码" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
