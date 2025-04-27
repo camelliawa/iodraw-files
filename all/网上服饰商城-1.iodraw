@@ -844,13 +844,16 @@
           <mxGeometry x="170" y="40" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="thhnvd3-WBFpuLloXKvf-3" value="访问登录界面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="130" width="100" height="40" as="geometry" />
+          <mxGeometry x="160" y="110" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="thhnvd3-WBFpuLloXKvf-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="thhnvd3-WBFpuLloXKvf-2" target="thhnvd3-WBFpuLloXKvf-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="350" y="290" as="sourcePoint" />
             <mxPoint x="400" y="240" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="thhnvd3-WBFpuLloXKvf-5" value="访问登录界面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="120" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
