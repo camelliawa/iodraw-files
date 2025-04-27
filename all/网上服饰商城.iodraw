@@ -50,7 +50,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="QagVLN1v-uJkTMTgueW_-85" value="打印消费者用户信息" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" parent="1" vertex="1">
-          <mxGeometry x="710" y="180" width="20" height="200" as="geometry" />
+          <mxGeometry x="710" y="180" width="20" height="160" as="geometry" />
         </mxCell>
         <mxCell id="QagVLN1v-uJkTMTgueW_-88" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -59,7 +59,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="QagVLN1v-uJkTMTgueW_-92" value="打印商家用户信息" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" parent="1" vertex="1">
-          <mxGeometry x="750" y="180" width="20" height="200" as="geometry" />
+          <mxGeometry x="750" y="180" width="20" height="160" as="geometry" />
         </mxCell>
         <mxCell id="QagVLN1v-uJkTMTgueW_-96" value="备份服饰商城系统数据" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" parent="1" vertex="1">
           <mxGeometry x="790" y="180" width="20" height="160" as="geometry" />
@@ -83,7 +83,7 @@
           <mxGeometry x="620" y="180" width="20" height="200" as="geometry" />
         </mxCell>
         <mxCell id="QagVLN1v-uJkTMTgueW_-113" value="查看商家用户信息" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" parent="1" vertex="1">
-          <mxGeometry x="670" y="180" width="20" height="200" as="geometry" />
+          <mxGeometry x="670" y="180" width="20" height="160" as="geometry" />
         </mxCell>
         <mxCell id="QagVLN1v-uJkTMTgueW_-115" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="QagVLN1v-uJkTMTgueW_-105" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
