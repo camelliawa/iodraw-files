@@ -843,7 +843,7 @@
         <mxCell id="thhnvd3-WBFpuLloXKvf-2" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="170" y="120" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="thhnvd3-WBFpuLloXKvf-3" value="访问登录界面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="thhnvd3-WBFpuLloXKvf-3" value="访问主页" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="190" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="thhnvd3-WBFpuLloXKvf-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="thhnvd3-WBFpuLloXKvf-2" target="thhnvd3-WBFpuLloXKvf-3">
