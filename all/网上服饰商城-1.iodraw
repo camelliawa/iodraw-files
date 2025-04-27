@@ -844,7 +844,13 @@
           <mxGeometry x="170" y="40" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="thhnvd3-WBFpuLloXKvf-3" value="访问登录界面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="160" width="120" height="60" as="geometry" />
+          <mxGeometry x="160" y="130" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="thhnvd3-WBFpuLloXKvf-4" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="290" as="sourcePoint" />
+            <mxPoint x="400" y="240" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
