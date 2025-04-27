@@ -971,9 +971,6 @@
         <mxCell id="JAQjogohWv0Rlp3gif8b-5" value="验证成功" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="340" width="80" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="JAQjogohWv0Rlp3gif8b-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JAQjogohWv0Rlp3gif8b-7" target="JAQjogohWv0Rlp3gif8b-5">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="JAQjogohWv0Rlp3gif8b-7" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="170" y="438" width="80" height="40" as="geometry" />
         </mxCell>
