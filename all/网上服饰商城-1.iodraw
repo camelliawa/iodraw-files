@@ -965,7 +965,7 @@
             <mxPoint x="400" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JAQjogohWv0Rlp3gif8b-4" value="输入账号和密码" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="JAQjogohWv0Rlp3gif8b-4" value="输入修改的信息" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="155" y="260" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="JAQjogohWv0Rlp3gif8b-5" value="验证成功" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
