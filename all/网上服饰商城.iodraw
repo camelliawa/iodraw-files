@@ -724,10 +724,10 @@
         <mxCell id="Arsh_0nRyPRQvi3n-ikU-14" value="服饰商家查看订单" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" parent="1" vertex="1">
           <mxGeometry x="705" y="150" width="20" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="Arsh_0nRyPRQvi3n-ikU-15" value="服饰商家登录" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" parent="1" vertex="1">
+        <mxCell id="Arsh_0nRyPRQvi3n-ikU-15" value="登录" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" parent="1" vertex="1">
           <mxGeometry x="165" y="150" width="20" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="Arsh_0nRyPRQvi3n-ikU-16" value="服饰商家登出" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" parent="1" vertex="1">
+        <mxCell id="Arsh_0nRyPRQvi3n-ikU-16" value="登出" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" parent="1" vertex="1">
           <mxGeometry x="215" y="150" width="20" height="220" as="geometry" />
         </mxCell>
         <mxCell id="Arsh_0nRyPRQvi3n-ikU-17" value="服饰商家注册" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" parent="1" vertex="1">
