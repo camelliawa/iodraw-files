@@ -58,14 +58,11 @@
             <mxPoint x="1060" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QagVLN1v-uJkTMTgueW_-92" value="管理员打印服饰商家用户信息" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" parent="1" vertex="1">
+        <mxCell id="QagVLN1v-uJkTMTgueW_-92" value="管理员打印商家用户信息" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" parent="1" vertex="1">
           <mxGeometry x="750" y="180" width="20" height="200" as="geometry" />
         </mxCell>
         <mxCell id="QagVLN1v-uJkTMTgueW_-96" value="管理员备份服饰商城系统数据" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" parent="1" vertex="1">
           <mxGeometry x="790" y="180" width="20" height="200" as="geometry" />
-        </mxCell>
-        <mxCell id="QagVLN1v-uJkTMTgueW_-97" value="服饰商城管理员恢复服饰商城系统数据" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" parent="1" vertex="1">
-          <mxGeometry x="830" y="180" width="20" height="260" as="geometry" />
         </mxCell>
         <mxCell id="QagVLN1v-uJkTMTgueW_-100" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -152,12 +149,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="799.5" y="180" as="sourcePoint" />
             <mxPoint x="799.5" y="150" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="QagVLN1v-uJkTMTgueW_-136" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="839.5" y="180" as="sourcePoint" />
-            <mxPoint x="839.5" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RNhPf7EQw6nR_iZ3O1QO-1" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" edge="1">
