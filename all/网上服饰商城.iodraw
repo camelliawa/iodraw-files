@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0" version="24.7.17" pages="4">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="管理员">
-    <mxGraphModel dx="652" dy="391" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#FFFFFF" math="0" shadow="0">
+    <mxGraphModel dx="1080" dy="816" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,17 +13,17 @@
             <mxPoint x="310" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QagVLN1v-uJkTMTgueW_-27" value="增加服饰商城公告" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" parent="1" vertex="1">
-          <mxGeometry x="420" y="180" width="20" height="160" as="geometry" />
+        <mxCell id="QagVLN1v-uJkTMTgueW_-27" value="服饰商城管理员增加服饰商城公告" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" parent="1" vertex="1">
+          <mxGeometry x="420" y="180" width="20" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="QagVLN1v-uJkTMTgueW_-28" value="删除服饰商城公告" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" parent="1" vertex="1">
-          <mxGeometry x="470" y="180" width="20" height="160" as="geometry" />
+        <mxCell id="QagVLN1v-uJkTMTgueW_-28" value="服饰商城管理员删除服饰商城公告" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" parent="1" vertex="1">
+          <mxGeometry x="470" y="180" width="20" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="QagVLN1v-uJkTMTgueW_-29" value="修改服饰商城公告" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" parent="1" vertex="1">
-          <mxGeometry x="520" y="180" width="20" height="160" as="geometry" />
+        <mxCell id="QagVLN1v-uJkTMTgueW_-29" value="服饰商城管理员修改服饰商城公告" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" parent="1" vertex="1">
+          <mxGeometry x="520" y="180" width="20" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="QagVLN1v-uJkTMTgueW_-30" value="查看服饰商城公告" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" parent="1" vertex="1">
-          <mxGeometry x="570" y="180" width="20" height="160" as="geometry" />
+        <mxCell id="QagVLN1v-uJkTMTgueW_-30" value="服饰商城管理员查看服饰商城公告" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" parent="1" vertex="1">
+          <mxGeometry x="570" y="180" width="20" height="220" as="geometry" />
         </mxCell>
         <mxCell id="QagVLN1v-uJkTMTgueW_-34" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -49,8 +49,8 @@
             <mxPoint x="840" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QagVLN1v-uJkTMTgueW_-85" value="打印消费者用户信息" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" parent="1" vertex="1">
-          <mxGeometry x="710" y="180" width="20" height="160" as="geometry" />
+        <mxCell id="QagVLN1v-uJkTMTgueW_-85" value="服饰商城管理员打印服饰消费者用户信息" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" parent="1" vertex="1">
+          <mxGeometry x="710" y="180" width="20" height="260" as="geometry" />
         </mxCell>
         <mxCell id="QagVLN1v-uJkTMTgueW_-88" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -58,11 +58,14 @@
             <mxPoint x="1060" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QagVLN1v-uJkTMTgueW_-92" value="打印商家用户信息" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" parent="1" vertex="1">
-          <mxGeometry x="750" y="180" width="20" height="160" as="geometry" />
+        <mxCell id="QagVLN1v-uJkTMTgueW_-92" value="服饰商城管理员打印服饰商家用户信息" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" parent="1" vertex="1">
+          <mxGeometry x="750" y="180" width="20" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="QagVLN1v-uJkTMTgueW_-96" value="备份服饰商城系统数据" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" parent="1" vertex="1">
-          <mxGeometry x="790" y="180" width="20" height="160" as="geometry" />
+        <mxCell id="QagVLN1v-uJkTMTgueW_-96" value="服饰商城管理员备份服饰商城系统数据" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" parent="1" vertex="1">
+          <mxGeometry x="790" y="180" width="20" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="QagVLN1v-uJkTMTgueW_-97" value="服饰商城管理员恢复服饰商城系统数据" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" parent="1" vertex="1">
+          <mxGeometry x="830" y="180" width="20" height="260" as="geometry" />
         </mxCell>
         <mxCell id="QagVLN1v-uJkTMTgueW_-100" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -70,20 +73,20 @@
             <mxPoint x="1130" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QagVLN1v-uJkTMTgueW_-105" value="登录" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" parent="1" vertex="1">
-          <mxGeometry x="270" y="180" width="20" height="160" as="geometry" />
+        <mxCell id="QagVLN1v-uJkTMTgueW_-105" value="服饰商城管理员登录" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" parent="1" vertex="1">
+          <mxGeometry x="270" y="180" width="20" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="QagVLN1v-uJkTMTgueW_-106" value="登出" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" parent="1" vertex="1">
-          <mxGeometry x="320" y="180" width="20" height="160" as="geometry" />
+        <mxCell id="QagVLN1v-uJkTMTgueW_-106" value="服饰商城管理员登出" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" parent="1" vertex="1">
+          <mxGeometry x="320" y="180" width="20" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="QagVLN1v-uJkTMTgueW_-108" value="管理员信息修改" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" parent="1" vertex="1">
-          <mxGeometry x="370" y="180" width="20" height="160" as="geometry" />
+        <mxCell id="QagVLN1v-uJkTMTgueW_-108" value="服饰商城管理员信息修改" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" parent="1" vertex="1">
+          <mxGeometry x="370" y="180" width="20" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="QagVLN1v-uJkTMTgueW_-112" value="查看消费者用户信息" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" parent="1" vertex="1">
-          <mxGeometry x="620" y="180" width="20" height="160" as="geometry" />
+        <mxCell id="QagVLN1v-uJkTMTgueW_-112" value="服饰商城管理员查看服饰消费者用户信息" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" parent="1" vertex="1">
+          <mxGeometry x="620" y="180" width="20" height="270" as="geometry" />
         </mxCell>
-        <mxCell id="QagVLN1v-uJkTMTgueW_-113" value="查看商家用户信息" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" parent="1" vertex="1">
-          <mxGeometry x="670" y="180" width="20" height="160" as="geometry" />
+        <mxCell id="QagVLN1v-uJkTMTgueW_-113" value="服饰商城管理员查看服饰商家用户信息" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" parent="1" vertex="1">
+          <mxGeometry x="670" y="180" width="20" height="270" as="geometry" />
         </mxCell>
         <mxCell id="QagVLN1v-uJkTMTgueW_-115" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="QagVLN1v-uJkTMTgueW_-105" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -151,26 +154,23 @@
             <mxPoint x="799.5" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="QagVLN1v-uJkTMTgueW_-136" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="839.5" y="180" as="sourcePoint" />
+            <mxPoint x="839.5" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="RNhPf7EQw6nR_iZ3O1QO-1" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="679.5" y="180" as="sourcePoint" />
             <mxPoint x="679.5" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pcGApXu431QNs64nsQU5-1" value="打开系统前台" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" vertex="1" parent="1">
-          <mxGeometry x="830" y="180" width="20" height="160" as="geometry" />
-        </mxCell>
-        <mxCell id="pcGApXu431QNs64nsQU5-2" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="839.58" y="180" as="sourcePoint" />
-            <mxPoint x="839.58" y="150" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="jtjhKNymHvtZjxdUk-lv" name="功能图2">
-    <mxGraphModel dx="946" dy="567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1080" dy="816" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -490,7 +490,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="uESIy8CWvgQqGQMzq6RC" name="消费者">
-    <mxGraphModel dx="652" dy="391" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1080" dy="816" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -548,16 +548,16 @@
         <mxCell id="C0z2NLBH5uiqVtd-vjYi-15" value="服饰消费者修改评价" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" parent="1" vertex="1">
           <mxGeometry x="705" y="150" width="20" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="C0z2NLBH5uiqVtd-vjYi-20" value="登录" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" parent="1" vertex="1">
+        <mxCell id="C0z2NLBH5uiqVtd-vjYi-20" value="服饰消费者登录" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" parent="1" vertex="1">
           <mxGeometry x="165" y="150" width="20" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="C0z2NLBH5uiqVtd-vjYi-21" value="登出" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" parent="1" vertex="1">
+        <mxCell id="C0z2NLBH5uiqVtd-vjYi-21" value="服饰消费者登出" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" parent="1" vertex="1">
           <mxGeometry x="215" y="150" width="20" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="C0z2NLBH5uiqVtd-vjYi-22" value="注册" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" parent="1" vertex="1">
+        <mxCell id="C0z2NLBH5uiqVtd-vjYi-22" value="服饰消费者注册" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" parent="1" vertex="1">
           <mxGeometry x="265" y="150" width="20" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="C0z2NLBH5uiqVtd-vjYi-23" value="消费者信息修改" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" parent="1" vertex="1">
+        <mxCell id="C0z2NLBH5uiqVtd-vjYi-23" value="服饰消费者信息修改" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" parent="1" vertex="1">
           <mxGeometry x="315" y="150" width="20" height="220" as="geometry" />
         </mxCell>
         <mxCell id="C0z2NLBH5uiqVtd-vjYi-24" value="服饰消费者删除账号" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" parent="1" vertex="1">
@@ -666,7 +666,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="s31wRdUk8p6lwaCBYaa6" name="商家">
-    <mxGraphModel dx="652" dy="391" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1080" dy="816" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -679,16 +679,16 @@
             <mxPoint x="295" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Arsh_0nRyPRQvi3n-ikU-3" value="增加服饰" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" parent="1" vertex="1">
+        <mxCell id="Arsh_0nRyPRQvi3n-ikU-3" value="服饰商家增加服饰" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" parent="1" vertex="1">
           <mxGeometry x="405" y="150" width="20" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="Arsh_0nRyPRQvi3n-ikU-4" value="删除服饰" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" parent="1" vertex="1">
+        <mxCell id="Arsh_0nRyPRQvi3n-ikU-4" value="服饰商家删除服饰" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" parent="1" vertex="1">
           <mxGeometry x="455" y="150" width="20" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="Arsh_0nRyPRQvi3n-ikU-5" value="修改服饰" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" parent="1" vertex="1">
+        <mxCell id="Arsh_0nRyPRQvi3n-ikU-5" value="服饰商家修改服饰" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" parent="1" vertex="1">
           <mxGeometry x="505" y="150" width="20" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="Arsh_0nRyPRQvi3n-ikU-6" value="查看服饰" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" parent="1" vertex="1">
+        <mxCell id="Arsh_0nRyPRQvi3n-ikU-6" value="服饰商家查看服饰" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" parent="1" vertex="1">
           <mxGeometry x="555" y="150" width="20" height="220" as="geometry" />
         </mxCell>
         <mxCell id="Arsh_0nRyPRQvi3n-ikU-7" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
@@ -697,7 +697,7 @@
             <mxPoint x="475" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Arsh_0nRyPRQvi3n-ikU-8" value="查看评价" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" parent="1" vertex="1">
+        <mxCell id="Arsh_0nRyPRQvi3n-ikU-8" value="服饰商家查看评价" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" parent="1" vertex="1">
           <mxGeometry x="755" y="150" width="20" height="220" as="geometry" />
         </mxCell>
         <mxCell id="Arsh_0nRyPRQvi3n-ikU-9" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
@@ -718,31 +718,31 @@
             <mxPoint x="810" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Arsh_0nRyPRQvi3n-ikU-12" value="删除订单" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" parent="1" vertex="1">
+        <mxCell id="Arsh_0nRyPRQvi3n-ikU-12" value="服饰商家删除订单" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" parent="1" vertex="1">
           <mxGeometry x="605" y="150" width="20" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="Arsh_0nRyPRQvi3n-ikU-14" value="查看订单" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" parent="1" vertex="1">
+        <mxCell id="Arsh_0nRyPRQvi3n-ikU-14" value="服饰商家查看订单" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" parent="1" vertex="1">
           <mxGeometry x="705" y="150" width="20" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="Arsh_0nRyPRQvi3n-ikU-15" value="登录" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" parent="1" vertex="1">
+        <mxCell id="Arsh_0nRyPRQvi3n-ikU-15" value="服饰商家登录" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" parent="1" vertex="1">
           <mxGeometry x="165" y="150" width="20" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="Arsh_0nRyPRQvi3n-ikU-16" value="登出" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" parent="1" vertex="1">
+        <mxCell id="Arsh_0nRyPRQvi3n-ikU-16" value="服饰商家登出" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" parent="1" vertex="1">
           <mxGeometry x="215" y="150" width="20" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="Arsh_0nRyPRQvi3n-ikU-17" value="注册" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" parent="1" vertex="1">
+        <mxCell id="Arsh_0nRyPRQvi3n-ikU-17" value="服饰商家注册" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" parent="1" vertex="1">
           <mxGeometry x="265" y="150" width="20" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="Arsh_0nRyPRQvi3n-ikU-18" value="信息修改" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" parent="1" vertex="1">
+        <mxCell id="Arsh_0nRyPRQvi3n-ikU-18" value="服饰商家信息修改" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" parent="1" vertex="1">
           <mxGeometry x="315" y="150" width="20" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="Arsh_0nRyPRQvi3n-ikU-19" value="删除账号" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" parent="1" vertex="1">
+        <mxCell id="Arsh_0nRyPRQvi3n-ikU-19" value="服饰商家删除账号" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" parent="1" vertex="1">
           <mxGeometry x="355" y="150" width="20" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="Arsh_0nRyPRQvi3n-ikU-20" value="修改订单" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" parent="1" vertex="1">
+        <mxCell id="Arsh_0nRyPRQvi3n-ikU-20" value="服饰商家修改订单" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" parent="1" vertex="1">
           <mxGeometry x="655" y="150" width="20" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="Arsh_0nRyPRQvi3n-ikU-22" value="查看服饰商城公告" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" parent="1" vertex="1">
+        <mxCell id="Arsh_0nRyPRQvi3n-ikU-22" value="服饰商家查看服饰商城公告" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" parent="1" vertex="1">
           <mxGeometry x="800" y="150" width="20" height="220" as="geometry" />
         </mxCell>
         <mxCell id="Arsh_0nRyPRQvi3n-ikU-24" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="Arsh_0nRyPRQvi3n-ikU-15" edge="1">
@@ -828,9 +828,6 @@
             <mxPoint x="809.44" y="150" as="sourcePoint" />
             <mxPoint x="809.44" y="120" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="SLTt7BoMGUEckw-vlmjy-1" value="查看评价" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" vertex="1" parent="1">
-          <mxGeometry x="765" y="160" width="20" height="220" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
