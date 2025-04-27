@@ -62,7 +62,7 @@
           <mxGeometry x="750" y="180" width="20" height="200" as="geometry" />
         </mxCell>
         <mxCell id="QagVLN1v-uJkTMTgueW_-96" value="备份服饰商城系统数据" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" parent="1" vertex="1">
-          <mxGeometry x="790" y="180" width="20" height="200" as="geometry" />
+          <mxGeometry x="790" y="180" width="20" height="160" as="geometry" />
         </mxCell>
         <mxCell id="QagVLN1v-uJkTMTgueW_-100" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -158,7 +158,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="pcGApXu431QNs64nsQU5-1" value="打开系统前台" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" vertex="1" parent="1">
-          <mxGeometry x="830" y="180" width="20" height="200" as="geometry" />
+          <mxGeometry x="830" y="180" width="20" height="160" as="geometry" />
         </mxCell>
         <mxCell id="pcGApXu431QNs64nsQU5-2" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
