@@ -71,10 +71,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="QagVLN1v-uJkTMTgueW_-105" value="登录" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" parent="1" vertex="1">
-          <mxGeometry x="270" y="180" width="20" height="200" as="geometry" />
+          <mxGeometry x="270" y="180" width="20" height="160" as="geometry" />
         </mxCell>
         <mxCell id="QagVLN1v-uJkTMTgueW_-106" value="登出" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" parent="1" vertex="1">
-          <mxGeometry x="320" y="180" width="20" height="200" as="geometry" />
+          <mxGeometry x="320" y="180" width="20" height="160" as="geometry" />
         </mxCell>
         <mxCell id="QagVLN1v-uJkTMTgueW_-108" value="管理员信息修改" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" parent="1" vertex="1">
           <mxGeometry x="370" y="180" width="20" height="160" as="geometry" />
