@@ -840,7 +840,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="thhnvd3-WBFpuLloXKvf-1" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="thhnvd3-WBFpuLloXKvf-2" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="330" y="230" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
