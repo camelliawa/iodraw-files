@@ -1011,6 +1011,9 @@
         <mxCell id="Hz4253XdteBQAO1_mT49-1" value="两次输入密码是否一致" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="133.5" y="438" width="153" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="Hz4253XdteBQAO1_mT49-2" value="是否输入名称" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="537" width="102" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
