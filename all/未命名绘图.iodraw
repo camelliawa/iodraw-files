@@ -207,8 +207,8 @@
         </mxCell>
         <mxCell id="kG2UDL1p0mH1aNq8nqtE-52" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="740" y="450" as="sourcePoint" />
-            <mxPoint x="740" y="420" as="targetPoint" />
+            <mxPoint x="750" y="450" as="sourcePoint" />
+            <mxPoint x="750" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="kG2UDL1p0mH1aNq8nqtE-53" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1">
@@ -315,6 +315,48 @@
         </mxCell>
         <mxCell id="kFTq40b4r2fPxplsH7mo-21" value="消费者修改购物车信息" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" vertex="1" parent="1">
           <mxGeometry x="970" y="560" width="20" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="kFTq40b4r2fPxplsH7mo-22" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="749.5000000000001" y="570" as="sourcePoint" />
+            <mxPoint x="749.5000000000001" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kFTq40b4r2fPxplsH7mo-23" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="679.5" y="570" as="sourcePoint" />
+            <mxPoint x="679.5" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kFTq40b4r2fPxplsH7mo-24" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="680" y="540" as="sourcePoint" />
+            <mxPoint x="850" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kFTq40b4r2fPxplsH7mo-25" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="714.6600000000001" y="570" as="sourcePoint" />
+            <mxPoint x="714.6600000000001" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kFTq40b4r2fPxplsH7mo-26" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="849.7100000000002" y="570" as="sourcePoint" />
+            <mxPoint x="849.7100000000002" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kFTq40b4r2fPxplsH7mo-27" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="819.7100000000002" y="570" as="sourcePoint" />
+            <mxPoint x="819.7100000000002" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kFTq40b4r2fPxplsH7mo-28" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="784.7100000000002" y="570" as="sourcePoint" />
+            <mxPoint x="784.7100000000002" y="540" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
