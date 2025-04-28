@@ -1553,8 +1553,8 @@
             <mxPoint x="210" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rYTTtPQMgCt4nykBFqcO-18" value="访问订单管理界面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="175" y="420" width="90" height="30" as="geometry" />
+        <mxCell id="rYTTtPQMgCt4nykBFqcO-18" value="删除选中订单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="165" y="459" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
