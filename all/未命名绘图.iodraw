@@ -471,7 +471,7 @@
             <mxPoint x="714.6600000000001" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8DYATL1FBPfGoXDids88-2" value="服饰商城管理员打印服饰商家用户信息" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" vertex="1" parent="1">
+        <mxCell id="8DYATL1FBPfGoXDids88-2" value="服饰商家打印服饰订单信息" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" vertex="1" parent="1">
           <mxGeometry x="740" y="320" width="20" height="260" as="geometry" />
         </mxCell>
       </root>
