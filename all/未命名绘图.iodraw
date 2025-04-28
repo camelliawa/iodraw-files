@@ -1006,7 +1006,7 @@
           <mxGeometry x="286.5" y="294" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JAQjogohWv0Rlp3gif8b-14" value="Y" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="210" y="408" width="30" height="30" as="geometry" />
+          <mxGeometry x="210" y="366" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Hz4253XdteBQAO1_mT49-1" value="两次输入密码是否一致" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="133.5" y="452" width="153" height="44" as="geometry" />
@@ -1016,16 +1016,6 @@
         </mxCell>
         <mxCell id="Hz4253XdteBQAO1_mT49-3" value="联系电话格式是否正确" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="124.5" y="614" width="173" height="47" as="geometry" />
-        </mxCell>
-        <mxCell id="Hz4253XdteBQAO1_mT49-4" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="310" y="430" as="sourcePoint" />
-            <mxPoint x="370" y="320" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="370" y="370" />
-              <mxPoint x="320" y="320" />
-            </Array>
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
