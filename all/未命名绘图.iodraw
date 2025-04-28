@@ -979,7 +979,7 @@
             <mxPoint x="250" y="374.58" as="sourcePoint" />
             <mxPoint x="260" y="200" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="290" y="377" />
+              <mxPoint x="290" y="343" />
               <mxPoint x="290" y="277" />
             </Array>
           </mxGeometry>
@@ -1003,7 +1003,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="JAQjogohWv0Rlp3gif8b-13" value="N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="290" y="320" width="30" height="30" as="geometry" />
+          <mxGeometry x="286.5" y="294" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JAQjogohWv0Rlp3gif8b-14" value="Y" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="210" y="408" width="30" height="30" as="geometry" />
@@ -1016,6 +1016,16 @@
         </mxCell>
         <mxCell id="Hz4253XdteBQAO1_mT49-3" value="联系电话格式是否正确" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="124.5" y="614" width="173" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="Hz4253XdteBQAO1_mT49-4" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="430" as="sourcePoint" />
+            <mxPoint x="370" y="320" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="370" y="370" />
+              <mxPoint x="320" y="320" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
