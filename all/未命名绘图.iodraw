@@ -972,7 +972,7 @@
           <mxGeometry x="159" y="320" width="102" height="46" as="geometry" />
         </mxCell>
         <mxCell id="JAQjogohWv0Rlp3gif8b-7" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="170" y="751" width="80" height="40" as="geometry" />
+          <mxGeometry x="171" y="600" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JAQjogohWv0Rlp3gif8b-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" target="JAQjogohWv0Rlp3gif8b-4" edge="1" source="JAQjogohWv0Rlp3gif8b-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1016,6 +1016,12 @@
         </mxCell>
         <mxCell id="Hz4253XdteBQAO1_mT49-3" value="联系电话格式是否正确" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="124.5" y="530" width="173" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="Hz4253XdteBQAO1_mT49-5" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210.71" y="440" as="sourcePoint" />
+            <mxPoint x="210.71" y="466" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
