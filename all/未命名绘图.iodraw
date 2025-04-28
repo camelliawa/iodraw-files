@@ -283,13 +283,13 @@
             <mxPoint x="619.71" y="530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kFTq40b4r2fPxplsH7mo-14" value="服饰商家查看评价" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" vertex="1" parent="1">
+        <mxCell id="kFTq40b4r2fPxplsH7mo-14" value="商家查看评价" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" vertex="1" parent="1">
           <mxGeometry x="755" y="560" width="20" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="kFTq40b4r2fPxplsH7mo-15" value="服饰商家删除评价" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" vertex="1" parent="1">
+        <mxCell id="kFTq40b4r2fPxplsH7mo-15" value="商家删除评价" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" vertex="1" parent="1">
           <mxGeometry x="790" y="560" width="20" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="kFTq40b4r2fPxplsH7mo-16" value="服饰商家回复评价" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" vertex="1" parent="1">
+        <mxCell id="kFTq40b4r2fPxplsH7mo-16" value="商家回复评价" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" vertex="1" parent="1">
           <mxGeometry x="820" y="560" width="20" height="260" as="geometry" />
         </mxCell>
         <mxCell id="kFTq40b4r2fPxplsH7mo-17" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
