@@ -824,7 +824,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="SLTt7BoMGUEckw-vlmjy-1" value="打开系统前台" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" parent="1" vertex="1">
-          <mxGeometry x="940" y="150" width="20" height="220" as="geometry" />
+          <mxGeometry x="950" y="150" width="20" height="220" as="geometry" />
         </mxCell>
         <mxCell id="cyGHn4F4MoyOIWnREj6H-1" value="查看服饰销售情况" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" vertex="1" parent="1">
           <mxGeometry x="360" y="150" width="20" height="220" as="geometry" />
