@@ -969,7 +969,7 @@
           <mxGeometry x="155" y="260" width="110" height="34" as="geometry" />
         </mxCell>
         <mxCell id="JAQjogohWv0Rlp3gif8b-5" value="是否输入账号" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="158" y="354" width="102" height="46" as="geometry" />
+          <mxGeometry x="159" y="320" width="102" height="46" as="geometry" />
         </mxCell>
         <mxCell id="JAQjogohWv0Rlp3gif8b-7" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="170" y="751" width="80" height="40" as="geometry" />
@@ -980,7 +980,7 @@
             <mxPoint x="260" y="200" as="targetPoint" />
             <Array as="points">
               <mxPoint x="290" y="377" />
-              <mxPoint x="290" y="280" />
+              <mxPoint x="290" y="277" />
             </Array>
           </mxGeometry>
         </mxCell>
