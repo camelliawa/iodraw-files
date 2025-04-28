@@ -969,17 +969,17 @@
           <mxGeometry x="155" y="260" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="JAQjogohWv0Rlp3gif8b-5" value="是否输入账号" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="148" y="342" width="102" height="70" as="geometry" />
+          <mxGeometry x="159" y="342" width="102" height="70" as="geometry" />
         </mxCell>
         <mxCell id="JAQjogohWv0Rlp3gif8b-7" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="170" y="534" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JAQjogohWv0Rlp3gif8b-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" target="JAQjogohWv0Rlp3gif8b-4" edge="1">
+        <mxCell id="JAQjogohWv0Rlp3gif8b-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" target="JAQjogohWv0Rlp3gif8b-4" edge="1" source="JAQjogohWv0Rlp3gif8b-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="250" y="374.58" as="sourcePoint" />
             <mxPoint x="260" y="200" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="290" y="375" />
+              <mxPoint x="292" y="377" />
               <mxPoint x="290" y="285" />
             </Array>
           </mxGeometry>
