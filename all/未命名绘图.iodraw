@@ -1011,8 +1011,11 @@
         <mxCell id="Hz4253XdteBQAO1_mT49-1" value="两次输入密码是否一致" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="134.5" y="396" width="153" height="44" as="geometry" />
         </mxCell>
+        <mxCell id="Hz4253XdteBQAO1_mT49-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Hz4253XdteBQAO1_mT49-2" target="Hz4253XdteBQAO1_mT49-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Hz4253XdteBQAO1_mT49-2" value="是否输入名称" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="129" y="460" width="164" height="48" as="geometry" />
+          <mxGeometry x="128" y="460" width="164" height="48" as="geometry" />
         </mxCell>
         <mxCell id="Hz4253XdteBQAO1_mT49-3" value="联系电话格式是否正确" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="124.5" y="530" width="173" height="47" as="geometry" />
