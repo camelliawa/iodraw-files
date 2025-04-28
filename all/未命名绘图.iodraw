@@ -1011,9 +1011,6 @@
         <mxCell id="Hz4253XdteBQAO1_mT49-1" value="两次输入密码是否一致" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="134.5" y="396" width="153" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="Hz4253XdteBQAO1_mT49-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Hz4253XdteBQAO1_mT49-2" target="Hz4253XdteBQAO1_mT49-1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="Hz4253XdteBQAO1_mT49-2" value="是否输入名称" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="128" y="460" width="164" height="48" as="geometry" />
         </mxCell>
@@ -1024,6 +1021,12 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="210.71" y="440" as="sourcePoint" />
             <mxPoint x="210" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hz4253XdteBQAO1_mT49-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="508" as="sourcePoint" />
+            <mxPoint x="209.29" y="528" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
