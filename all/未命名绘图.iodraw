@@ -968,8 +968,8 @@
         <mxCell id="JAQjogohWv0Rlp3gif8b-4" value="输入信息" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="155" y="260" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="JAQjogohWv0Rlp3gif8b-5" value="验证成功" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="170" y="342" width="80" height="70" as="geometry" />
+        <mxCell id="JAQjogohWv0Rlp3gif8b-5" value="是否输入账号" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="148" y="342" width="102" height="70" as="geometry" />
         </mxCell>
         <mxCell id="JAQjogohWv0Rlp3gif8b-7" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="170" y="534" width="80" height="40" as="geometry" />
