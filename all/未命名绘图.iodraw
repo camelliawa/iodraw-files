@@ -130,10 +130,10 @@
         <mxCell id="kG2UDL1p0mH1aNq8nqtE-27" value="服饰商家管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="450" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="kG2UDL1p0mH1aNq8nqtE-28" value="服饰商城管理员管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kG2UDL1p0mH1aNq8nqtE-28" value="服饰订单管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="450" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="kG2UDL1p0mH1aNq8nqtE-29" value="报表打印" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kG2UDL1p0mH1aNq8nqtE-29" value="服饰评价管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="705" y="450" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kG2UDL1p0mH1aNq8nqtE-30" value="系统备份和恢复" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
