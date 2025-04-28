@@ -552,7 +552,7 @@
           <mxGeometry x="315" y="150" width="20" height="220" as="geometry" />
         </mxCell>
         <mxCell id="C0z2NLBH5uiqVtd-vjYi-25" value="删除评价" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" parent="1" vertex="1">
-          <mxGeometry x="830" y="150" width="20" height="220" as="geometry" />
+          <mxGeometry x="840" y="150" width="20" height="220" as="geometry" />
         </mxCell>
         <mxCell id="C0z2NLBH5uiqVtd-vjYi-26" value="查看服饰" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" parent="1" vertex="1">
           <mxGeometry x="400" y="150" width="20" height="220" as="geometry" />
@@ -628,12 +628,12 @@
         </mxCell>
         <mxCell id="C0z2NLBH5uiqVtd-vjYi-43" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="859.5" y="150" as="sourcePoint" />
-            <mxPoint x="859.5" y="120" as="targetPoint" />
+            <mxPoint x="849.8" y="150" as="sourcePoint" />
+            <mxPoint x="849.8" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3MYRUwq4Sg7eNhi3Zxm8-1" value="查看评价" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" vertex="1" parent="1">
-          <mxGeometry x="780" y="150" width="20" height="220" as="geometry" />
+          <mxGeometry x="790" y="150" width="20" height="220" as="geometry" />
         </mxCell>
         <mxCell id="3MYRUwq4Sg7eNhi3Zxm8-2" value="查看购物车" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" vertex="1" parent="1">
           <mxGeometry x="490" y="150" width="20" height="220" as="geometry" />
