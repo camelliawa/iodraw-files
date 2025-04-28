@@ -230,7 +230,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="kG2UDL1p0mH1aNq8nqtE-62" value="消费者删除评价" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" vertex="1" parent="1">
-          <mxGeometry x="730" y="560" width="20" height="260" as="geometry" />
+          <mxGeometry x="730" y="560" width="20" height="220" as="geometry" />
         </mxCell>
         <mxCell id="kFTq40b4r2fPxplsH7mo-2" value="商家登录" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" vertex="1" parent="1">
           <mxGeometry x="330" y="560" width="20" height="220" as="geometry" />
@@ -284,10 +284,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="kFTq40b4r2fPxplsH7mo-14" value="商家查看评价" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" vertex="1" parent="1">
-          <mxGeometry x="765" y="560" width="20" height="260" as="geometry" />
+          <mxGeometry x="765" y="560" width="20" height="220" as="geometry" />
         </mxCell>
         <mxCell id="kFTq40b4r2fPxplsH7mo-15" value="商家删除评价" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" vertex="1" parent="1">
-          <mxGeometry x="800" y="560" width="20" height="260" as="geometry" />
+          <mxGeometry x="800" y="560" width="20" height="220" as="geometry" />
         </mxCell>
         <mxCell id="kFTq40b4r2fPxplsH7mo-16" value="商家回复评价" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" vertex="1" parent="1">
           <mxGeometry x="830" y="560" width="20" height="260" as="geometry" />
