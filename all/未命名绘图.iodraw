@@ -506,9 +506,6 @@
         <mxCell id="C0z2NLBH5uiqVtd-vjYi-3" value="服饰消费者增加订单" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" parent="1" vertex="1">
           <mxGeometry x="405" y="150" width="20" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="C0z2NLBH5uiqVtd-vjYi-4" value="服饰消费者删除订单" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" parent="1" vertex="1">
-          <mxGeometry x="455" y="150" width="20" height="220" as="geometry" />
-        </mxCell>
         <mxCell id="C0z2NLBH5uiqVtd-vjYi-5" value="服饰消费者修改订单" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" parent="1" vertex="1">
           <mxGeometry x="505" y="150" width="20" height="220" as="geometry" />
         </mxCell>
@@ -603,12 +600,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="414.44" y="150" as="sourcePoint" />
             <mxPoint x="414.44" y="120" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="C0z2NLBH5uiqVtd-vjYi-35" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="464.44" y="150" as="sourcePoint" />
-            <mxPoint x="464.44" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="C0z2NLBH5uiqVtd-vjYi-36" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" edge="1">
