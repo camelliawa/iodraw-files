@@ -490,7 +490,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="uESIy8CWvgQqGQMzq6RC" name="消费者">
-    <mxGraphModel dx="514" dy="389" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="965" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -559,9 +559,6 @@
         </mxCell>
         <mxCell id="C0z2NLBH5uiqVtd-vjYi-23" value="消费者信息修改" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" parent="1" vertex="1">
           <mxGeometry x="315" y="150" width="20" height="220" as="geometry" />
-        </mxCell>
-        <mxCell id="C0z2NLBH5uiqVtd-vjYi-24" value="服饰消费者删除账号" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" parent="1" vertex="1">
-          <mxGeometry x="355" y="150" width="20" height="220" as="geometry" />
         </mxCell>
         <mxCell id="C0z2NLBH5uiqVtd-vjYi-25" value="服饰消费者删除评价" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" parent="1" vertex="1">
           <mxGeometry x="655" y="150" width="20" height="220" as="geometry" />
