@@ -28,7 +28,7 @@
             <mxPoint x="720" y="540" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kG2UDL1p0mH1aNq8nqtE-10" value="服饰消费者发布评价" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" vertex="1" parent="1">
+        <mxCell id="kG2UDL1p0mH1aNq8nqtE-10" value="消费者发布评价" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" vertex="1" parent="1">
           <mxGeometry x="650" y="560" width="20" height="260" as="geometry" />
         </mxCell>
         <mxCell id="kG2UDL1p0mH1aNq8nqtE-11" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
@@ -37,7 +37,7 @@
             <mxPoint x="950" y="640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kG2UDL1p0mH1aNq8nqtE-12" value="服饰消费者查看评价" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" vertex="1" parent="1">
+        <mxCell id="kG2UDL1p0mH1aNq8nqtE-12" value="消费者查看评价" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" vertex="1" parent="1">
           <mxGeometry x="685" y="560" width="20" height="260" as="geometry" />
         </mxCell>
         <mxCell id="kG2UDL1p0mH1aNq8nqtE-13" value="消费者增加服饰至购物车" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" vertex="1" parent="1">
@@ -229,7 +229,7 @@
             <mxPoint x="694.6600000000001" y="530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kG2UDL1p0mH1aNq8nqtE-62" value="服饰消费者删除评价" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" vertex="1" parent="1">
+        <mxCell id="kG2UDL1p0mH1aNq8nqtE-62" value="消费者删除评价" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" vertex="1" parent="1">
           <mxGeometry x="720" y="560" width="20" height="260" as="geometry" />
         </mxCell>
         <mxCell id="kFTq40b4r2fPxplsH7mo-2" value="商家登录" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" vertex="1" parent="1">
