@@ -698,7 +698,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Arsh_0nRyPRQvi3n-ikU-8" value="查看评价" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" parent="1" vertex="1">
-          <mxGeometry x="574.5" y="304" width="20" height="220" as="geometry" />
+          <mxGeometry x="600" y="150" width="20" height="220" as="geometry" />
         </mxCell>
         <mxCell id="Arsh_0nRyPRQvi3n-ikU-9" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -719,10 +719,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Arsh_0nRyPRQvi3n-ikU-12" value="删除订单" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" parent="1" vertex="1">
-          <mxGeometry x="605" y="150" width="20" height="220" as="geometry" />
+          <mxGeometry x="660" y="150" width="20" height="220" as="geometry" />
         </mxCell>
         <mxCell id="Arsh_0nRyPRQvi3n-ikU-14" value="查看订单" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" parent="1" vertex="1">
-          <mxGeometry x="705" y="150" width="20" height="220" as="geometry" />
+          <mxGeometry x="760" y="150" width="20" height="220" as="geometry" />
         </mxCell>
         <mxCell id="Arsh_0nRyPRQvi3n-ikU-15" value="登录" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" parent="1" vertex="1">
           <mxGeometry x="165" y="150" width="20" height="220" as="geometry" />
@@ -737,7 +737,7 @@
           <mxGeometry x="315" y="150" width="20" height="220" as="geometry" />
         </mxCell>
         <mxCell id="Arsh_0nRyPRQvi3n-ikU-20" value="修改订单" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" parent="1" vertex="1">
-          <mxGeometry x="655" y="150" width="20" height="220" as="geometry" />
+          <mxGeometry x="710" y="150" width="20" height="220" as="geometry" />
         </mxCell>
         <mxCell id="Arsh_0nRyPRQvi3n-ikU-22" value="查看服饰商城公告" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" parent="1" vertex="1">
           <mxGeometry x="800" y="150" width="20" height="220" as="geometry" />
