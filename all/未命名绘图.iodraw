@@ -223,7 +223,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="QZ88AZYE2-59xo4AtTw7-16" value="服饰商城管理员打印服饰商家用户信息" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" parent="1" vertex="1">
-          <mxGeometry x="740" y="320" width="20" height="260" as="geometry" />
+          <mxGeometry x="705" y="320" width="20" height="260" as="geometry" />
         </mxCell>
         <mxCell id="QZ88AZYE2-59xo4AtTw7-17" value="服饰商城管理员备份服饰商城系统数据" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" parent="1" vertex="1">
           <mxGeometry x="880" y="290" width="20" height="260" as="geometry" />
@@ -472,7 +472,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="8DYATL1FBPfGoXDids88-2" value="服饰商城管理员打印服饰商家用户信息" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" vertex="1" parent="1">
-          <mxGeometry x="750" y="330" width="20" height="260" as="geometry" />
+          <mxGeometry x="740" y="320" width="20" height="260" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
