@@ -1556,7 +1556,13 @@
         <mxCell id="rYTTtPQMgCt4nykBFqcO-18" value="是否删除选中订单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="165" y="459" width="90" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="rYTTtPQMgCt4nykBFqcO-19" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="rYTTtPQMgCt4nykBFqcO-18">
+        <mxCell id="rYTTtPQMgCt4nykBFqcO-19" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="rYTTtPQMgCt4nykBFqcO-18" target="rYTTtPQMgCt4nykBFqcO-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="133" y="525" as="sourcePoint" />
+            <mxPoint x="183" y="475" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rYTTtPQMgCt4nykBFqcO-20" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="133" y="525" as="sourcePoint" />
             <mxPoint x="183" y="475" as="targetPoint" />
