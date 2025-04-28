@@ -341,7 +341,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="jtjhKNymHvtZjxdUk-lv" name="功能图2">
-    <mxGraphModel dx="1158" dy="657" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1158" dy="657" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -393,8 +393,8 @@
             <mxPoint x="910" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QZ88AZYE2-59xo4AtTw7-16" value="管理员打印商家用户信息" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" parent="1" vertex="1">
-          <mxGeometry x="750" y="320" width="20" height="260" as="geometry" />
+        <mxCell id="QZ88AZYE2-59xo4AtTw7-16" value="管理员打印商家用户信息" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;gradientColor=none;" parent="1" vertex="1">
+          <mxGeometry x="750" y="320" width="20" height="220" as="geometry" />
         </mxCell>
         <mxCell id="QZ88AZYE2-59xo4AtTw7-17" value="管理员备份服饰商城系统数据" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" parent="1" vertex="1">
           <mxGeometry x="890" y="290" width="20" height="260" as="geometry" />
