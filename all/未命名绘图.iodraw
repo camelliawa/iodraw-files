@@ -969,7 +969,7 @@
           <mxGeometry x="155" y="260" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="JAQjogohWv0Rlp3gif8b-5" value="是否输入账号" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="159" y="342" width="102" height="70" as="geometry" />
+          <mxGeometry x="158" y="354" width="102" height="46" as="geometry" />
         </mxCell>
         <mxCell id="JAQjogohWv0Rlp3gif8b-7" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="170" y="751" width="80" height="40" as="geometry" />
@@ -1009,7 +1009,7 @@
           <mxGeometry x="210" y="408" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Hz4253XdteBQAO1_mT49-1" value="两次输入密码是否一致" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="133.5" y="438" width="153" height="70" as="geometry" />
+          <mxGeometry x="133.5" y="452" width="153" height="44" as="geometry" />
         </mxCell>
         <mxCell id="Hz4253XdteBQAO1_mT49-2" value="是否输入名称" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="129" y="545" width="164" height="48" as="geometry" />
