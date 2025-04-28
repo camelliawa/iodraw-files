@@ -507,7 +507,7 @@
           <mxGeometry x="590" y="150" width="20" height="140" as="geometry" />
         </mxCell>
         <mxCell id="C0z2NLBH5uiqVtd-vjYi-6" value="查看订单" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" parent="1" vertex="1">
-          <mxGeometry x="640" y="150" width="20" height="220" as="geometry" />
+          <mxGeometry x="640" y="150" width="20" height="140" as="geometry" />
         </mxCell>
         <mxCell id="C0z2NLBH5uiqVtd-vjYi-7" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -537,7 +537,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="C0z2NLBH5uiqVtd-vjYi-12" value="发布评价" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" parent="1" vertex="1">
-          <mxGeometry x="740" y="150" width="20" height="220" as="geometry" />
+          <mxGeometry x="740" y="150" width="20" height="140" as="geometry" />
         </mxCell>
         <mxCell id="C0z2NLBH5uiqVtd-vjYi-20" value="登录" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" parent="1" vertex="1">
           <mxGeometry x="165" y="150" width="20" height="140" as="geometry" />
@@ -642,7 +642,7 @@
           <mxGeometry x="540" y="150" width="20" height="140" as="geometry" />
         </mxCell>
         <mxCell id="3MYRUwq4Sg7eNhi3Zxm8-4" value="确认收货" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" vertex="1" parent="1">
-          <mxGeometry x="690" y="150" width="20" height="220" as="geometry" />
+          <mxGeometry x="690" y="150" width="20" height="140" as="geometry" />
         </mxCell>
         <mxCell id="3MYRUwq4Sg7eNhi3Zxm8-5" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -661,9 +661,6 @@
             <mxPoint x="799.8" y="150" as="sourcePoint" />
             <mxPoint x="799.8" y="120" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="3MYRUwq4Sg7eNhi3Zxm8-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="C0z2NLBH5uiqVtd-vjYi-6" target="C0z2NLBH5uiqVtd-vjYi-6">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
