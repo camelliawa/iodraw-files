@@ -405,7 +405,7 @@
             <mxPoint x="1141" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QZ88AZYE2-59xo4AtTw7-20" value="服饰商城管理员登录" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" parent="1" vertex="1">
+        <mxCell id="QZ88AZYE2-59xo4AtTw7-20" value="管理员登录" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" parent="1" vertex="1">
           <mxGeometry x="720" y="330" width="20" height="220" as="geometry" />
         </mxCell>
         <mxCell id="QZ88AZYE2-59xo4AtTw7-21" value="服饰商城管理员登出" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" parent="1" vertex="1">
@@ -606,7 +606,7 @@
         <mxCell id="JmTc0L7RMPgNxWhWpyJX-1" value="消费者查看服饰商城公告" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" parent="1" vertex="1">
           <mxGeometry x="640" y="330" width="20" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="JmTc0L7RMPgNxWhWpyJX-2" value="服饰商家查看服饰商城公告" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" parent="1" vertex="1">
+        <mxCell id="JmTc0L7RMPgNxWhWpyJX-2" value="商家查看服饰商城公告" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" parent="1" vertex="1">
           <mxGeometry x="670" y="330" width="20" height="220" as="geometry" />
         </mxCell>
         <mxCell id="JmTc0L7RMPgNxWhWpyJX-3" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" edge="1">
