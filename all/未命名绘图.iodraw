@@ -662,8 +662,8 @@
         </mxCell>
         <mxCell id="SeUNR1hf1Wxd-LKsSxgY-6" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="280.00000000000006" y="330" as="sourcePoint" />
-            <mxPoint x="280.00000000000006" y="300" as="targetPoint" />
+            <mxPoint x="289.71000000000004" y="330" as="sourcePoint" />
+            <mxPoint x="289.71000000000004" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="SeUNR1hf1Wxd-LKsSxgY-8" value="收发货管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -683,6 +683,12 @@
         </mxCell>
         <mxCell id="SeUNR1hf1Wxd-LKsSxgY-11" value="消费者确认收货" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" vertex="1" parent="1">
           <mxGeometry x="280" y="330" width="20" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="SeUNR1hf1Wxd-LKsSxgY-12" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="429.23" y="230" as="sourcePoint" />
+            <mxPoint x="429.23" y="200" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
