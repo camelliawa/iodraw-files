@@ -503,7 +503,7 @@
             <mxPoint x="295" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="C0z2NLBH5uiqVtd-vjYi-3" value="服饰消费者增加订单" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" parent="1" vertex="1">
+        <mxCell id="C0z2NLBH5uiqVtd-vjYi-3" value="增加订单" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" parent="1" vertex="1">
           <mxGeometry x="360" y="150" width="20" height="220" as="geometry" />
         </mxCell>
         <mxCell id="C0z2NLBH5uiqVtd-vjYi-6" value="服饰消费者查看订单" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" parent="1" vertex="1">
@@ -633,7 +633,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3MYRUwq4Sg7eNhi3Zxm8-1" value="消费者信息修改" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" vertex="1" parent="1">
-          <mxGeometry x="515" y="250" width="20" height="220" as="geometry" />
+          <mxGeometry x="560" y="150" width="20" height="220" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
