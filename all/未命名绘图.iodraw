@@ -37,7 +37,7 @@
             <mxPoint x="950" y="640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kG2UDL1p0mH1aNq8nqtE-12" value="服饰商城管理员打印服饰商家用户信息" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" vertex="1" parent="1">
+        <mxCell id="kG2UDL1p0mH1aNq8nqtE-12" value="服饰消费者查看评价" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" vertex="1" parent="1">
           <mxGeometry x="755" y="560" width="20" height="260" as="geometry" />
         </mxCell>
         <mxCell id="kG2UDL1p0mH1aNq8nqtE-13" value="服饰商城管理员备份服饰商城系统数据" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" vertex="1" parent="1">
