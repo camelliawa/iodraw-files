@@ -1547,20 +1547,14 @@
             <mxPoint x="220" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rYTTtPQMgCt4nykBFqcO-7" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="rYTTtPQMgCt4nykBFqcO-10" target="rYTTtPQMgCt4nykBFqcO-5">
+        <mxCell id="rYTTtPQMgCt4nykBFqcO-7" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="rYTTtPQMgCt4nykBFqcO-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="210" y="630" as="sourcePoint" />
+            <mxPoint x="210" y="590" as="sourcePoint" />
             <mxPoint x="209.71" y="660" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rYTTtPQMgCt4nykBFqcO-8" value="访问服饰详情" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rYTTtPQMgCt4nykBFqcO-8" value="访问服饰订单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="165" y="460" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="rYTTtPQMgCt4nykBFqcO-9" value="访问订单提交界面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="165" y="510" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="rYTTtPQMgCt4nykBFqcO-10" value="支付" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="165" y="560" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rYTTtPQMgCt4nykBFqcO-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rYTTtPQMgCt4nykBFqcO-4" target="rYTTtPQMgCt4nykBFqcO-8">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1568,16 +1562,16 @@
             <mxPoint x="180" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rYTTtPQMgCt4nykBFqcO-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rYTTtPQMgCt4nykBFqcO-8" target="rYTTtPQMgCt4nykBFqcO-9">
+        <mxCell id="rYTTtPQMgCt4nykBFqcO-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rYTTtPQMgCt4nykBFqcO-8">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="130" y="530" as="sourcePoint" />
-            <mxPoint x="180" y="480" as="targetPoint" />
+            <mxPoint x="210" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rYTTtPQMgCt4nykBFqcO-16" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rYTTtPQMgCt4nykBFqcO-9" target="rYTTtPQMgCt4nykBFqcO-10">
+        <mxCell id="rYTTtPQMgCt4nykBFqcO-16" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="130" y="530" as="sourcePoint" />
-            <mxPoint x="180" y="480" as="targetPoint" />
+            <mxPoint x="210" y="540" as="sourcePoint" />
+            <mxPoint x="210" y="560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
