@@ -136,7 +136,7 @@
         <mxCell id="kG2UDL1p0mH1aNq8nqtE-29" value="服饰评价管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="705" y="450" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="kG2UDL1p0mH1aNq8nqtE-30" value="系统备份和恢复" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kG2UDL1p0mH1aNq8nqtE-30" value="购物车管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="880" y="450" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kG2UDL1p0mH1aNq8nqtE-31" value="服饰商家增加服饰" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" vertex="1" parent="1">
