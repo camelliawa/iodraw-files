@@ -636,10 +636,10 @@
           <mxGeometry x="790" y="150" width="20" height="220" as="geometry" />
         </mxCell>
         <mxCell id="3MYRUwq4Sg7eNhi3Zxm8-2" value="查看购物车" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" vertex="1" parent="1">
-          <mxGeometry x="490" y="150" width="20" height="138" as="geometry" />
+          <mxGeometry x="490" y="150" width="20" height="140" as="geometry" />
         </mxCell>
         <mxCell id="3MYRUwq4Sg7eNhi3Zxm8-3" value="修改购物车信息" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" vertex="1" parent="1">
-          <mxGeometry x="540" y="150" width="20" height="220" as="geometry" />
+          <mxGeometry x="540" y="150" width="20" height="140" as="geometry" />
         </mxCell>
         <mxCell id="3MYRUwq4Sg7eNhi3Zxm8-4" value="确认收货" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" vertex="1" parent="1">
           <mxGeometry x="690" y="150" width="20" height="220" as="geometry" />
