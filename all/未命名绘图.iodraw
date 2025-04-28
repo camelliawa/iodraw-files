@@ -633,7 +633,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3MYRUwq4Sg7eNhi3Zxm8-1" value="消费者信息修改" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" vertex="1" parent="1">
-          <mxGeometry x="500" y="340" width="20" height="220" as="geometry" />
+          <mxGeometry x="515" y="250" width="20" height="220" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
