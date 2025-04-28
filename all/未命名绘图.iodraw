@@ -719,7 +719,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Arsh_0nRyPRQvi3n-ikU-12" value="删除订单" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" parent="1" vertex="1">
-          <mxGeometry x="750" y="150" width="20" height="220" as="geometry" />
+          <mxGeometry x="800" y="150" width="20" height="220" as="geometry" />
         </mxCell>
         <mxCell id="Arsh_0nRyPRQvi3n-ikU-14" value="查看订单" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" parent="1" vertex="1">
           <mxGeometry x="850" y="150" width="20" height="220" as="geometry" />
@@ -735,9 +735,6 @@
         </mxCell>
         <mxCell id="Arsh_0nRyPRQvi3n-ikU-18" value="服饰商家信息修改" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" parent="1" vertex="1">
           <mxGeometry x="315" y="150" width="20" height="220" as="geometry" />
-        </mxCell>
-        <mxCell id="Arsh_0nRyPRQvi3n-ikU-20" value="修改订单" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" parent="1" vertex="1">
-          <mxGeometry x="800" y="150" width="20" height="220" as="geometry" />
         </mxCell>
         <mxCell id="Arsh_0nRyPRQvi3n-ikU-22" value="查看服饰商城公告" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" parent="1" vertex="1">
           <mxGeometry x="890" y="150" width="20" height="220" as="geometry" />
@@ -810,8 +807,8 @@
         </mxCell>
         <mxCell id="Arsh_0nRyPRQvi3n-ikU-35" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="714.44" y="150" as="sourcePoint" />
-            <mxPoint x="714.44" y="120" as="targetPoint" />
+            <mxPoint x="709.7600000000001" y="150" as="sourcePoint" />
+            <mxPoint x="709.7600000000001" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Arsh_0nRyPRQvi3n-ikU-36" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" edge="1">
@@ -835,7 +832,7 @@
         <mxCell id="cyGHn4F4MoyOIWnREj6H-2" value="删除评论" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" vertex="1" parent="1">
           <mxGeometry x="650" y="150" width="20" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="cyGHn4F4MoyOIWnREj6H-3" value="删除评论" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" vertex="1" parent="1">
+        <mxCell id="cyGHn4F4MoyOIWnREj6H-3" value="回复评论" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" vertex="1" parent="1">
           <mxGeometry x="700" y="150" width="20" height="220" as="geometry" />
         </mxCell>
       </root>
