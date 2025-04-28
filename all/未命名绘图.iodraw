@@ -697,7 +697,7 @@
             <mxPoint x="475" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Arsh_0nRyPRQvi3n-ikU-8" value="查看评价" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" parent="1" vertex="1">
+        <mxCell id="Arsh_0nRyPRQvi3n-ikU-8" value="查看评论" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" parent="1" vertex="1">
           <mxGeometry x="600" y="150" width="20" height="220" as="geometry" />
         </mxCell>
         <mxCell id="Arsh_0nRyPRQvi3n-ikU-9" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
@@ -832,7 +832,7 @@
         <mxCell id="cyGHn4F4MoyOIWnREj6H-1" value="查看服饰销售情况" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" vertex="1" parent="1">
           <mxGeometry x="360" y="150" width="20" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="cyGHn4F4MoyOIWnREj6H-2" value="删除评价" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" vertex="1" parent="1">
+        <mxCell id="cyGHn4F4MoyOIWnREj6H-2" value="删除评论" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" vertex="1" parent="1">
           <mxGeometry x="650" y="150" width="20" height="220" as="geometry" />
         </mxCell>
       </root>
