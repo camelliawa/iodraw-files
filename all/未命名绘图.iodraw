@@ -292,6 +292,24 @@
         <mxCell id="kFTq40b4r2fPxplsH7mo-16" value="服饰商家回复评价" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" vertex="1" parent="1">
           <mxGeometry x="890" y="560" width="20" height="260" as="geometry" />
         </mxCell>
+        <mxCell id="kFTq40b4r2fPxplsH7mo-17" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="899.7100000000002" y="560" as="sourcePoint" />
+            <mxPoint x="899.7100000000002" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kFTq40b4r2fPxplsH7mo-18" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="869.7100000000002" y="560" as="sourcePoint" />
+            <mxPoint x="869.7100000000002" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kFTq40b4r2fPxplsH7mo-19" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="834.7100000000002" y="560" as="sourcePoint" />
+            <mxPoint x="834.7100000000002" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
