@@ -972,7 +972,7 @@
           <mxGeometry x="170" y="340" width="80" height="70" as="geometry" />
         </mxCell>
         <mxCell id="JAQjogohWv0Rlp3gif8b-7" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="170" y="438" width="80" height="40" as="geometry" />
+          <mxGeometry x="170" y="534" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JAQjogohWv0Rlp3gif8b-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" target="JAQjogohWv0Rlp3gif8b-4" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1007,6 +1007,9 @@
         </mxCell>
         <mxCell id="JAQjogohWv0Rlp3gif8b-14" value="Y" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="210" y="408" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Hz4253XdteBQAO1_mT49-1" value="验证成功" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="350" width="80" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
