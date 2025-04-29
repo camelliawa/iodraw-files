@@ -1405,23 +1405,17 @@
             <mxPoint x="400.9999999999999" y="576" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LQuH-TfuI4j_76S0o5mS-9" value="访问购物车信息管理界面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LQuH-TfuI4j_76S0o5mS-9" value="发货" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="356" y="475" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="LQuH-TfuI4j_76S0o5mS-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontStyle=1" edge="1" parent="1" source="LQuH-TfuI4j_76S0o5mS-9" target="LQuH-TfuI4j_76S0o5mS-13">
+        <mxCell id="LQuH-TfuI4j_76S0o5mS-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontStyle=1" edge="1" parent="1" source="LQuH-TfuI4j_76S0o5mS-9">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="471" y="448.0000000000001" as="sourcePoint" />
-            <mxPoint x="476" y="493" as="targetPoint" />
+            <mxPoint x="401" y="529" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LQuH-TfuI4j_76S0o5mS-6" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="361" y="575" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="LQuH-TfuI4j_76S0o5mS-13" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;修改信息&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="356" y="529" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="LQuH-TfuI4j_76S0o5mS-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontStyle=1" edge="1" parent="1" source="LQuH-TfuI4j_76S0o5mS-13" target="LQuH-TfuI4j_76S0o5mS-6">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HizX7qOKtzlVQPzgOdrD-15" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="170" y="485" width="80" height="40" as="geometry" />
