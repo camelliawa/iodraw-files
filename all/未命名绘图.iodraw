@@ -1621,8 +1621,7 @@
             <mxPoint x="569" y="405" as="targetPoint" />
             <Array as="points">
               <mxPoint x="589" y="578" />
-              <mxPoint x="589" y="472" />
-              <mxPoint x="589" y="445" />
+              <mxPoint x="589" y="470" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1633,7 +1632,7 @@
           <mxGeometry x="479" y="590" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VTOUAWBHQePwXW6gqYNb-12" value="N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="569" y="485" width="30" height="30" as="geometry" />
+          <mxGeometry x="560" y="510" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VTOUAWBHQePwXW6gqYNb-13" value="访问评价界面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="434" y="455" width="90" height="30" as="geometry" />
