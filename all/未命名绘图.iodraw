@@ -1564,6 +1564,54 @@
         <mxCell id="VMWYZKFP8PMEtLRFeIc3-2" value="是否确认收货" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="522" width="102" height="46" as="geometry" />
         </mxCell>
+        <mxCell id="VMWYZKFP8PMEtLRFeIc3-4" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="565" y="319" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VMWYZKFP8PMEtLRFeIc3-5" value="访问主页" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="555" y="379" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VMWYZKFP8PMEtLRFeIc3-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="VMWYZKFP8PMEtLRFeIc3-4" target="VMWYZKFP8PMEtLRFeIc3-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="745" y="549" as="sourcePoint" />
+            <mxPoint x="795" y="499" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VMWYZKFP8PMEtLRFeIc3-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="VMWYZKFP8PMEtLRFeIc3-12" target="VMWYZKFP8PMEtLRFeIc3-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="604.9999999999999" y="594.0000000000001" as="targetPoint" />
+            <mxPoint x="605" y="574" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VMWYZKFP8PMEtLRFeIc3-8" value="访问个人中心界面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="428" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VMWYZKFP8PMEtLRFeIc3-9" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="VMWYZKFP8PMEtLRFeIc3-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="605" y="409" as="sourcePoint" />
+            <mxPoint x="615" y="349" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VMWYZKFP8PMEtLRFeIc3-10" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="565" y="583" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VMWYZKFP8PMEtLRFeIc3-11" value="访问购物车信息管理界面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="483" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VMWYZKFP8PMEtLRFeIc3-12" value="修改信息" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="555" y="535" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VMWYZKFP8PMEtLRFeIc3-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VMWYZKFP8PMEtLRFeIc3-8" target="VMWYZKFP8PMEtLRFeIc3-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="363" y="510" as="sourcePoint" />
+            <mxPoint x="413" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VMWYZKFP8PMEtLRFeIc3-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VMWYZKFP8PMEtLRFeIc3-11" target="VMWYZKFP8PMEtLRFeIc3-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="363" y="510" as="sourcePoint" />
+            <mxPoint x="413" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
