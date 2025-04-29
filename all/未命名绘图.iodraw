@@ -1345,7 +1345,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="uMZBlpcAKEscT6PZTpkc" name="第 6 页">
-    <mxGraphModel dx="652" dy="391" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="652" dy="391" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1387,8 +1387,10 @@
             <mxPoint x="591" y="495" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LQuH-TfuI4j_76S0o5mS-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LQuH-TfuI4j_76S0o5mS-5" target="LQuH-TfuI4j_76S0o5mS-9">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="LQuH-TfuI4j_76S0o5mS-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LQuH-TfuI4j_76S0o5mS-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="401" y="475.0000000000001" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="LQuH-TfuI4j_76S0o5mS-5" value="访问服饰订单管理界面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="356" y="425" width="90" height="30" as="geometry" />
@@ -1399,12 +1401,9 @@
             <mxPoint x="411" y="345" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LQuH-TfuI4j_76S0o5mS-9" value="是否发货" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="356" y="475" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="LQuH-TfuI4j_76S0o5mS-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontStyle=1" edge="1" parent="1" source="LQuH-TfuI4j_76S0o5mS-9">
+        <mxCell id="LQuH-TfuI4j_76S0o5mS-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontStyle=1" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="471" y="448.0000000000001" as="sourcePoint" />
+            <mxPoint x="401" y="505.0000000000001" as="sourcePoint" />
             <mxPoint x="401" y="529" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -1413,6 +1412,12 @@
         </mxCell>
         <mxCell id="HizX7qOKtzlVQPzgOdrD-15" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="170" y="485" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tiTXjKg-1ZvcOvOVPSO1-1" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="490" as="sourcePoint" />
+            <mxPoint x="530" y="440" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
