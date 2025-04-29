@@ -1714,6 +1714,9 @@
         <mxCell id="d9ZRA3K-mJsFSJi6oB7j-4" value="是否评分" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="414" y="568" width="130" height="48" as="geometry" />
         </mxCell>
+        <mxCell id="d9ZRA3K-mJsFSJi6oB7j-6" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="433" y="424" width="120" height="34" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
