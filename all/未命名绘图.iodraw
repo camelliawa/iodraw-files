@@ -396,9 +396,6 @@
         <mxCell id="QZ88AZYE2-59xo4AtTw7-16" value="管理员打印商家用户信息" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="750" y="320" width="20" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="QZ88AZYE2-59xo4AtTw7-17" value="管理员备份服饰商城系统数据" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" parent="1" vertex="1">
-          <mxGeometry x="890" y="290" width="20" height="250" as="geometry" />
-        </mxCell>
         <mxCell id="QZ88AZYE2-59xo4AtTw7-19" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="921" y="280" as="sourcePoint" />
@@ -473,9 +470,6 @@
         </mxCell>
         <mxCell id="QZ88AZYE2-59xo4AtTw7-53" value="报表打印" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="700" y="210" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="QZ88AZYE2-59xo4AtTw7-54" value="系统备份" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="840" y="210" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QZ88AZYE2-59xo4AtTw7-55" value="商家增加服饰" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" parent="1" vertex="1">
           <mxGeometry x="190" y="320" width="20" height="220" as="geometry" />
@@ -595,12 +589,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="759.66" y="210" as="sourcePoint" />
             <mxPoint x="759.66" y="180" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="QZ88AZYE2-59xo4AtTw7-93" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="899.6600000000001" y="210" as="sourcePoint" />
-            <mxPoint x="899.6600000000001" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JmTc0L7RMPgNxWhWpyJX-1" value="消费者查看服饰商城公告" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" parent="1" vertex="1">
@@ -912,7 +900,7 @@
         </mxCell>
         <mxCell id="Arsh_0nRyPRQvi3n-ikU-10" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" target="Arsh_0nRyPRQvi3n-ikU-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="567" y="121" as="sourcePoint" />
+            <mxPoint x="545" y="121" as="sourcePoint" />
             <mxPoint x="569" y="83" as="targetPoint" />
           </mxGeometry>
         </mxCell>
