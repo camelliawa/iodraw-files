@@ -1595,7 +1595,7 @@
           <mxGeometry x="434" y="405" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VTOUAWBHQePwXW6gqYNb-5" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="439" y="632" width="80" height="40" as="geometry" />
+          <mxGeometry x="439" y="620" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VTOUAWBHQePwXW6gqYNb-6" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VTOUAWBHQePwXW6gqYNb-2" target="VTOUAWBHQePwXW6gqYNb-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1631,7 +1631,7 @@
           <mxGeometry x="409" y="566" width="140" height="24" as="geometry" />
         </mxCell>
         <mxCell id="VTOUAWBHQePwXW6gqYNb-11" value="Y" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="479" y="600" width="30" height="30" as="geometry" />
+          <mxGeometry x="479" y="590" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VTOUAWBHQePwXW6gqYNb-12" value="N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="569" y="485" width="30" height="30" as="geometry" />
