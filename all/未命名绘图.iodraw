@@ -1457,9 +1457,10 @@
             <mxPoint x="785" y="489" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2nSJYPaBCE8p9OvAyJ4S-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="2nSJYPaBCE8p9OvAyJ4S-5" target="2nSJYPaBCE8p9OvAyJ4S-7">
+        <mxCell id="2nSJYPaBCE8p9OvAyJ4S-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="2nSJYPaBCE8p9OvAyJ4S-7">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="594.9999999999999" y="469.0000000000001" as="targetPoint" />
+            <mxPoint x="594.9999999999999" y="608.0000000000001" as="targetPoint" />
+            <mxPoint x="595" y="588" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="2nSJYPaBCE8p9OvAyJ4S-5" value="访问个人中心界面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -1472,7 +1473,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="2nSJYPaBCE8p9OvAyJ4S-7" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="555" y="474" width="80" height="40" as="geometry" />
+          <mxGeometry x="555" y="613" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
