@@ -1098,9 +1098,6 @@
         <mxCell id="QagVLN1v-uJkTMTgueW_-92" value="打印商家用户信息" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" parent="1" vertex="1">
           <mxGeometry x="750" y="180" width="20" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="QagVLN1v-uJkTMTgueW_-96" value="备份服饰商城系统数据" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" parent="1" vertex="1">
-          <mxGeometry x="790" y="180" width="20" height="160" as="geometry" />
-        </mxCell>
         <mxCell id="QagVLN1v-uJkTMTgueW_-100" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1130" y="210" as="sourcePoint" />
@@ -1180,12 +1177,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="759.5" y="180" as="sourcePoint" />
             <mxPoint x="759.5" y="150" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="QagVLN1v-uJkTMTgueW_-135" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="799.5" y="180" as="sourcePoint" />
-            <mxPoint x="799.5" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RNhPf7EQw6nR_iZ3O1QO-1" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" edge="1">
