@@ -1409,7 +1409,7 @@
         <mxCell id="LQuH-TfuI4j_76S0o5mS-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LQuH-TfuI4j_76S0o5mS-5" target="LQuH-TfuI4j_76S0o5mS-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LQuH-TfuI4j_76S0o5mS-5" value="访问服饰信息界面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LQuH-TfuI4j_76S0o5mS-5" value="访问个人中心界面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="356" y="425" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LQuH-TfuI4j_76S0o5mS-6" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
