@@ -1628,9 +1628,6 @@
             <mxPoint x="697" y="973" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="W53jgm4uW6GX6wFiSspk-7" value="打印" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="652" y="974" width="90" height="30" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
