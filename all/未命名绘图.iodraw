@@ -1491,8 +1491,8 @@
             <mxPoint x="403" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2nSJYPaBCE8p9OvAyJ4S-17" value="访问服饰信息管理界面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="175" y="440" width="90" height="30" as="geometry" />
+        <mxCell id="2nSJYPaBCE8p9OvAyJ4S-17" value="访问修改服饰界面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="165" y="495" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
