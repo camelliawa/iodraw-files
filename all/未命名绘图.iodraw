@@ -1472,7 +1472,10 @@
         <mxCell id="2nSJYPaBCE8p9OvAyJ4S-7" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="555" y="613" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="2nSJYPaBCE8p9OvAyJ4S-9" value="访问个人中心界面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2nSJYPaBCE8p9OvAyJ4S-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2nSJYPaBCE8p9OvAyJ4S-9" target="2nSJYPaBCE8p9OvAyJ4S-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2nSJYPaBCE8p9OvAyJ4S-9" value="访问购物车信息管理界面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="552" y="481" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
