@@ -1612,6 +1612,54 @@
         <mxCell id="VMWYZKFP8PMEtLRFeIc3-15" value="提交" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="504" y="979" width="90" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="VMWYZKFP8PMEtLRFeIc3-16" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="519" y="772" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VMWYZKFP8PMEtLRFeIc3-17" value="访问主页" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="509" y="832" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VMWYZKFP8PMEtLRFeIc3-18" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="VMWYZKFP8PMEtLRFeIc3-16" target="VMWYZKFP8PMEtLRFeIc3-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="699" y="1002" as="sourcePoint" />
+            <mxPoint x="749" y="952" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VMWYZKFP8PMEtLRFeIc3-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="VMWYZKFP8PMEtLRFeIc3-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="558.9999999999999" y="1047" as="targetPoint" />
+            <mxPoint x="559" y="1018" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VMWYZKFP8PMEtLRFeIc3-20" value="访问公告管理界面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="514" y="881" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VMWYZKFP8PMEtLRFeIc3-21" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="VMWYZKFP8PMEtLRFeIc3-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="559" y="862" as="sourcePoint" />
+            <mxPoint x="569" y="802" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VMWYZKFP8PMEtLRFeIc3-22" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="519" y="1036" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VMWYZKFP8PMEtLRFeIc3-23" value="访问新增公告界面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="514" y="936" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VMWYZKFP8PMEtLRFeIc3-24" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VMWYZKFP8PMEtLRFeIc3-20" target="VMWYZKFP8PMEtLRFeIc3-23">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="317" y="963" as="sourcePoint" />
+            <mxPoint x="367" y="913" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VMWYZKFP8PMEtLRFeIc3-25" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VMWYZKFP8PMEtLRFeIc3-23">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="317" y="963" as="sourcePoint" />
+            <mxPoint x="559" y="988" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VMWYZKFP8PMEtLRFeIc3-26" value="提交" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="514" y="989" width="90" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
