@@ -1576,10 +1576,10 @@
             <mxPoint x="739" y="942" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VMWYZKFP8PMEtLRFeIc3-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="VMWYZKFP8PMEtLRFeIc3-12" target="VMWYZKFP8PMEtLRFeIc3-10">
+        <mxCell id="VMWYZKFP8PMEtLRFeIc3-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="VMWYZKFP8PMEtLRFeIc3-10">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="548.9999999999999" y="1037" as="targetPoint" />
-            <mxPoint x="549" y="1017" as="sourcePoint" />
+            <mxPoint x="549" y="1008" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VMWYZKFP8PMEtLRFeIc3-8" value="访问公告管理界面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -1595,10 +1595,7 @@
           <mxGeometry x="509" y="1026" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VMWYZKFP8PMEtLRFeIc3-11" value="访问新增公告界面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="504" y="926" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="VMWYZKFP8PMEtLRFeIc3-12" value="修改信息" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="499" y="978" width="100" height="30" as="geometry" />
+          <mxGeometry x="509" y="929" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VMWYZKFP8PMEtLRFeIc3-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VMWYZKFP8PMEtLRFeIc3-8" target="VMWYZKFP8PMEtLRFeIc3-11">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1606,11 +1603,14 @@
             <mxPoint x="357" y="903" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VMWYZKFP8PMEtLRFeIc3-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VMWYZKFP8PMEtLRFeIc3-11" target="VMWYZKFP8PMEtLRFeIc3-12">
+        <mxCell id="VMWYZKFP8PMEtLRFeIc3-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VMWYZKFP8PMEtLRFeIc3-11">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="307" y="953" as="sourcePoint" />
-            <mxPoint x="357" y="903" as="targetPoint" />
+            <mxPoint x="549" y="978" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="VMWYZKFP8PMEtLRFeIc3-15" value="访问新增公告界面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="514" y="936" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
