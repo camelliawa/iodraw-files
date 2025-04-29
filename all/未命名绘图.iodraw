@@ -1353,7 +1353,7 @@
           <mxGeometry x="170" y="310" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hq-IMZ3622WOX0n6sp1b-2" value="访问主页" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="160" y="370" width="100" height="40" as="geometry" />
+          <mxGeometry x="160" y="380" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hq-IMZ3622WOX0n6sp1b-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="hq-IMZ3622WOX0n6sp1b-1" target="hq-IMZ3622WOX0n6sp1b-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1368,7 +1368,7 @@
           <mxGeometry x="165" y="430" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hq-IMZ3622WOX0n6sp1b-7" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="170" y="550" width="80" height="40" as="geometry" />
+          <mxGeometry x="170" y="530" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hq-IMZ3622WOX0n6sp1b-11" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="hq-IMZ3622WOX0n6sp1b-6" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1383,7 +1383,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="xGZ1sEyNcyi7V3__IyXX-1" value="访问服饰详情界面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="165" y="500" width="90" height="30" as="geometry" />
+          <mxGeometry x="165" y="480" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
