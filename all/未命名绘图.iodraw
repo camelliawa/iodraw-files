@@ -919,7 +919,7 @@
         <mxCell id="Arsh_0nRyPRQvi3n-ikU-11" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="175" y="120" as="sourcePoint" />
-            <mxPoint x="960" y="120" as="targetPoint" />
+            <mxPoint x="911" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Arsh_0nRyPRQvi3n-ikU-12" value="删除订单" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" parent="1" vertex="1">
@@ -1027,9 +1027,6 @@
             <mxPoint x="809.44" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SLTt7BoMGUEckw-vlmjy-1" value="打开系统前台" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" parent="1" vertex="1">
-          <mxGeometry x="950" y="150" width="20" height="140" as="geometry" />
-        </mxCell>
         <mxCell id="cyGHn4F4MoyOIWnREj6H-1" value="查看服饰销售情况" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" parent="1" vertex="1">
           <mxGeometry x="360" y="150" width="20" height="140" as="geometry" />
         </mxCell>
@@ -1052,12 +1049,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="909.76" y="150" as="sourcePoint" />
             <mxPoint x="909.76" y="120" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="cyGHn4F4MoyOIWnREj6H-7" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="959.76" y="150" as="sourcePoint" />
-            <mxPoint x="959.76" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
