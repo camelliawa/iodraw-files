@@ -1436,7 +1436,7 @@
             <mxPoint x="400.9999999999999" y="582" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LQuH-TfuI4j_76S0o5mS-11" value="访问回复评价界面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LQuH-TfuI4j_76S0o5mS-11" value="增加服饰至购物车" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="356" y="528" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
