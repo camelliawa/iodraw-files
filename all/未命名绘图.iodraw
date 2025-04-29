@@ -1562,7 +1562,7 @@
           <mxGeometry x="259" y="870" width="102" height="46" as="geometry" />
         </mxCell>
         <mxCell id="VMWYZKFP8PMEtLRFeIc3-2" value="是否发货" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="269" y="880" width="102" height="46" as="geometry" />
+          <mxGeometry x="288" y="514" width="102" height="46" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
