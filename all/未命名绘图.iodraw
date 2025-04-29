@@ -1628,13 +1628,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="VTOUAWBHQePwXW6gqYNb-10" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;是否评分&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="409" y="566" width="140" height="34" as="geometry" />
+          <mxGeometry x="409" y="566" width="140" height="24" as="geometry" />
         </mxCell>
         <mxCell id="VTOUAWBHQePwXW6gqYNb-11" value="Y" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="479" y="600" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VTOUAWBHQePwXW6gqYNb-12" value="N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="569" y="425" width="30" height="30" as="geometry" />
+          <mxGeometry x="569" y="485" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VTOUAWBHQePwXW6gqYNb-13" value="访问评价界面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="434" y="455" width="90" height="30" as="geometry" />
