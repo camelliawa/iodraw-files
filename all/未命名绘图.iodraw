@@ -1441,7 +1441,7 @@
         <mxCell id="HizX7qOKtzlVQPzgOdrD-15" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="170" y="577" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="HizX7qOKtzlVQPzgOdrD-16" value="修改信息" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="HizX7qOKtzlVQPzgOdrD-16" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;修改信息&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="165" y="531" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HizX7qOKtzlVQPzgOdrD-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontStyle=1" edge="1" parent="1" source="HizX7qOKtzlVQPzgOdrD-16" target="HizX7qOKtzlVQPzgOdrD-15">
