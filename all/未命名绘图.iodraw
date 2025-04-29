@@ -1413,10 +1413,13 @@
         <mxCell id="HizX7qOKtzlVQPzgOdrD-15" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="170" y="485" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="tiTXjKg-1ZvcOvOVPSO1-1" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="tiTXjKg-1ZvcOvOVPSO1-1" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="tiTXjKg-1ZvcOvOVPSO1-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="480" y="490" as="sourcePoint" />
             <mxPoint x="530" y="440" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="490" y="500" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="tiTXjKg-1ZvcOvOVPSO1-2" value="是否发货" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
