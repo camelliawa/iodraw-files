@@ -1365,7 +1365,7 @@
           <mxGeometry x="165" y="440" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hq-IMZ3622WOX0n6sp1b-7" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="170" y="510" width="80" height="40" as="geometry" />
+          <mxGeometry x="170" y="580" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hq-IMZ3622WOX0n6sp1b-11" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="hq-IMZ3622WOX0n6sp1b-6" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1373,11 +1373,14 @@
             <mxPoint x="220" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hq-IMZ3622WOX0n6sp1b-12" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryPerimeter=0;" parent="1" source="hq-IMZ3622WOX0n6sp1b-6" target="hq-IMZ3622WOX0n6sp1b-7" edge="1">
+        <mxCell id="hq-IMZ3622WOX0n6sp1b-12" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryPerimeter=0;" parent="1" target="hq-IMZ3622WOX0n6sp1b-7" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="230" y="330" as="sourcePoint" />
-            <mxPoint x="230" y="360" as="targetPoint" />
+            <mxPoint x="209.9999999999999" y="540.0000000000001" as="sourcePoint" />
+            <mxPoint x="230" y="430" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="xGZ1sEyNcyi7V3__IyXX-1" value="访问商品信息界面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="175" y="450" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
