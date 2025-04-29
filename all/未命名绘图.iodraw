@@ -1730,7 +1730,7 @@
             <mxPoint x="869" y="492" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="v_jqzQjpEgVuZhVO9Crs-4" value="访问订单管理界面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="v_jqzQjpEgVuZhVO9Crs-4" value="访问服饰信息管理界面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="634" y="402" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="v_jqzQjpEgVuZhVO9Crs-5" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
