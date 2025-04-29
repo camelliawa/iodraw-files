@@ -1498,7 +1498,7 @@
             <mxPoint x="549" y="1008" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VMWYZKFP8PMEtLRFeIc3-8" value="访问公告管理界面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VMWYZKFP8PMEtLRFeIc3-8" value="访问服饰订单管理界面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="504" y="871" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VMWYZKFP8PMEtLRFeIc3-9" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="VMWYZKFP8PMEtLRFeIc3-8">
