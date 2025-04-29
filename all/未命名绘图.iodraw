@@ -1384,7 +1384,7 @@
             <mxPoint x="209.9999999999999" y="587" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xGZ1sEyNcyi7V3__IyXX-13" value="新增服饰" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="xGZ1sEyNcyi7V3__IyXX-13" value="访问新增服饰界面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="165" y="480" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LQuH-TfuI4j_76S0o5mS-1" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
