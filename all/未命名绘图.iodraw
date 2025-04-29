@@ -1387,7 +1387,7 @@
             <mxPoint x="591" y="482" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LQuH-TfuI4j_76S0o5mS-5" value="访问服饰订单管理界面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LQuH-TfuI4j_76S0o5mS-5" value="访问服饰订单界面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="356" y="469" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LQuH-TfuI4j_76S0o5mS-7" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="tiTXjKg-1ZvcOvOVPSO1-8">
