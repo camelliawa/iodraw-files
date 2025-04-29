@@ -1391,7 +1391,7 @@
             <mxPoint x="209.9999999999999" y="587" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xGZ1sEyNcyi7V3__IyXX-13" value="访问评价回复界面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="xGZ1sEyNcyi7V3__IyXX-13" value="访问回复评价界面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="165" y="533" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
