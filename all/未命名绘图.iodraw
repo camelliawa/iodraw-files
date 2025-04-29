@@ -1434,7 +1434,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="LQuH-TfuI4j_76S0o5mS-6" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="361" y="528" width="80" height="40" as="geometry" />
+          <mxGeometry x="361" y="571" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
