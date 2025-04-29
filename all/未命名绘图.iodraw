@@ -1387,14 +1387,6 @@
             <mxPoint x="591" y="495" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LQuH-TfuI4j_76S0o5mS-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.556;entryY=0.105;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="LQuH-TfuI4j_76S0o5mS-5" target="tiTXjKg-1ZvcOvOVPSO1-2">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="401" y="475.0000000000001" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="401" y="478" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="LQuH-TfuI4j_76S0o5mS-5" value="访问服饰订单管理界面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="356" y="425" width="90" height="30" as="geometry" />
         </mxCell>
@@ -1434,6 +1426,12 @@
         </mxCell>
         <mxCell id="tiTXjKg-1ZvcOvOVPSO1-5" value="Y" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="399" y="510" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tiTXjKg-1ZvcOvOVPSO1-6" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="483" as="sourcePoint" />
+            <mxPoint x="370" y="433" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
