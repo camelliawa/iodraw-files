@@ -1712,8 +1712,8 @@
             <mxPoint x="450" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="d9ZRA3K-mJsFSJi6oB7j-1" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="394" y="414" width="120" height="80" as="geometry" />
+        <mxCell id="d9ZRA3K-mJsFSJi6oB7j-2" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="283" y="491" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
