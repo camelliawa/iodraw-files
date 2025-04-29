@@ -1629,7 +1629,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="W53jgm4uW6GX6wFiSspk-8" value="是否打印" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="474" y="886" width="80" height="80" as="geometry" />
+          <mxGeometry x="657" y="970" width="80" height="41.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
