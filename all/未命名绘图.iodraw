@@ -1385,6 +1385,9 @@
         <mxCell id="xGZ1sEyNcyi7V3__IyXX-1" value="访问服饰评价信息界面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="165" y="480" width="90" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="xGZ1sEyNcyi7V3__IyXX-7" value="是否删除" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="285" y="428" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
