@@ -570,7 +570,7 @@
         <mxCell id="QZ88AZYE2-59xo4AtTw7-87" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="100" y="180" as="sourcePoint" />
-            <mxPoint x="1040" y="180" as="targetPoint" />
+            <mxPoint x="899" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QZ88AZYE2-59xo4AtTw7-88" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="QZ88AZYE2-59xo4AtTw7-51" edge="1">
@@ -688,27 +688,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="99.71000000000001" y="210" as="sourcePoint" />
             <mxPoint x="99.71000000000001" y="180" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="SeUNR1hf1Wxd-LKsSxgY-14" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1000" y="320" as="sourcePoint" />
-            <mxPoint x="1000" y="290" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="SeUNR1hf1Wxd-LKsSxgY-15" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1079.71" y="320" as="sourcePoint" />
-            <mxPoint x="1079.71" y="290" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="SeUNR1hf1Wxd-LKsSxgY-19" value="商家打开系统前台" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" parent="1" vertex="1">
-          <mxGeometry x="1070" y="320" width="20" height="220" as="geometry" />
-        </mxCell>
-        <mxCell id="SeUNR1hf1Wxd-LKsSxgY-20" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1039.66" y="210" as="sourcePoint" />
-            <mxPoint x="1039.66" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
