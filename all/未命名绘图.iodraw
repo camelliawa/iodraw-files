@@ -1594,7 +1594,7 @@
         <mxCell id="VMWYZKFP8PMEtLRFeIc3-10" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="509" y="1026" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="VMWYZKFP8PMEtLRFeIc3-11" value="访问购物车信息管理界面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VMWYZKFP8PMEtLRFeIc3-11" value="访问新增公告界面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="504" y="926" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VMWYZKFP8PMEtLRFeIc3-12" value="修改信息" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
