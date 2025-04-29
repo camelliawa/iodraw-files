@@ -1064,7 +1064,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="prtHgNgQTEPvFCAcTncT" name="管理员">
-    <mxGraphModel dx="946" dy="567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#FFFFFF" math="0" shadow="0">
+    <mxGraphModel dx="788" dy="473" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1110,7 +1110,7 @@
         <mxCell id="QagVLN1v-uJkTMTgueW_-78" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="280" y="150" as="sourcePoint" />
-            <mxPoint x="840" y="150" as="targetPoint" />
+            <mxPoint x="800" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QagVLN1v-uJkTMTgueW_-85" value="打印消费者用户信息" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" parent="1" vertex="1">
@@ -1219,15 +1219,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="679.5" y="180" as="sourcePoint" />
             <mxPoint x="679.5" y="150" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="pcGApXu431QNs64nsQU5-1" value="打开系统前台" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=center;" parent="1" vertex="1">
-          <mxGeometry x="830" y="180" width="20" height="160" as="geometry" />
-        </mxCell>
-        <mxCell id="pcGApXu431QNs64nsQU5-2" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="839.58" y="180" as="sourcePoint" />
-            <mxPoint x="839.58" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
