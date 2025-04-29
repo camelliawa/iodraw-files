@@ -1364,7 +1364,7 @@
         <mxCell id="xGZ1sEyNcyi7V3__IyXX-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hq-IMZ3622WOX0n6sp1b-6" target="xGZ1sEyNcyi7V3__IyXX-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hq-IMZ3622WOX0n6sp1b-6" value="访问服饰信息界面" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="hq-IMZ3622WOX0n6sp1b-6" value="访问服饰信息管理界面" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="165" y="430" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hq-IMZ3622WOX0n6sp1b-7" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="1" vertex="1">
