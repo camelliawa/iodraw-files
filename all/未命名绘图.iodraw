@@ -1651,12 +1651,13 @@
         <mxCell id="VMWYZKFP8PMEtLRFeIc3-27" value="是否删除" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="83" y="950" width="102" height="46" as="geometry" />
         </mxCell>
-        <mxCell id="VMWYZKFP8PMEtLRFeIc3-28" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="VMWYZKFP8PMEtLRFeIc3-27">
+        <mxCell id="VMWYZKFP8PMEtLRFeIc3-28" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VMWYZKFP8PMEtLRFeIc3-27" target="VMWYZKFP8PMEtLRFeIc3-20">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="353" y="991" as="sourcePoint" />
             <mxPoint x="224" y="882" as="targetPoint" />
             <Array as="points">
               <mxPoint x="220" y="973" />
+              <mxPoint x="222" y="910" />
             </Array>
           </mxGeometry>
         </mxCell>
