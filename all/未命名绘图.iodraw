@@ -1532,16 +1532,16 @@
         </mxCell>
         <mxCell id="nOWov2ArqimMyFz5YoYG-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontStyle=1;entryPerimeter=0;" edge="1" parent="1" target="nOWov2ArqimMyFz5YoYG-7">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="310" y="897.0000000000001" as="sourcePoint" />
-            <mxPoint x="310" y="921" as="targetPoint" />
+            <mxPoint x="310" y="926.0000000000001" as="sourcePoint" />
+            <mxPoint x="310" y="950" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nOWov2ArqimMyFz5YoYG-7" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="270" y="930" width="80" height="40" as="geometry" />
+          <mxGeometry x="270" y="959" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="nOWov2ArqimMyFz5YoYG-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nOWov2ArqimMyFz5YoYG-9" target="nOWov2ArqimMyFz5YoYG-4">
+        <mxCell id="nOWov2ArqimMyFz5YoYG-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="nOWov2ArqimMyFz5YoYG-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="389" y="882" as="sourcePoint" />
+            <mxPoint x="346.36363636363626" y="892.4545454545455" as="sourcePoint" />
             <mxPoint x="399" y="802" as="targetPoint" />
             <Array as="points">
               <mxPoint x="399" y="892" />
@@ -1549,23 +1549,20 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="nOWov2ArqimMyFz5YoYG-9" value="是否发货" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="872" width="100" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="nOWov2ArqimMyFz5YoYG-10" value="N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="369" y="847" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nOWov2ArqimMyFz5YoYG-11" value="Y" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="308" y="902" width="30" height="30" as="geometry" />
+          <mxGeometry x="308" y="931" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="nOWov2ArqimMyFz5YoYG-12" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="nOWov2ArqimMyFz5YoYG-4" target="nOWov2ArqimMyFz5YoYG-9">
+        <mxCell id="nOWov2ArqimMyFz5YoYG-12" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="nOWov2ArqimMyFz5YoYG-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="229" y="875" as="sourcePoint" />
-            <mxPoint x="279" y="825" as="targetPoint" />
+            <mxPoint x="309.9999999999999" y="872" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VMWYZKFP8PMEtLRFeIc3-1" value="是否输入账号" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="886" width="102" height="46" as="geometry" />
+        <mxCell id="VMWYZKFP8PMEtLRFeIc3-1" value="是否发货" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="259" y="870" width="102" height="46" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
