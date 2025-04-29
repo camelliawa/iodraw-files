@@ -1426,8 +1426,8 @@
         <mxCell id="tiTXjKg-1ZvcOvOVPSO1-2" value="是否发货" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="346" y="480" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="tiTXjKg-1ZvcOvOVPSO1-3" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="485" y="448" width="50" height="30" as="geometry" />
+        <mxCell id="tiTXjKg-1ZvcOvOVPSO1-3" value="N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="460" y="455" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
