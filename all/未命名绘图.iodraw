@@ -1361,7 +1361,7 @@
             <mxPoint x="400" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xGZ1sEyNcyi7V3__IyXX-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hq-IMZ3622WOX0n6sp1b-6">
+        <mxCell id="xGZ1sEyNcyi7V3__IyXX-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="hq-IMZ3622WOX0n6sp1b-6" target="HizX7qOKtzlVQPzgOdrD-15">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="209.9999999999999" y="480.0000000000001" as="targetPoint" />
           </mxGeometry>
@@ -1430,12 +1430,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HizX7qOKtzlVQPzgOdrD-15" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="170" y="577" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="HizX7qOKtzlVQPzgOdrD-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontStyle=1" edge="1" parent="1" target="HizX7qOKtzlVQPzgOdrD-15">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="209.9999999999999" y="560.9999999999999" as="sourcePoint" />
-          </mxGeometry>
+          <mxGeometry x="170" y="485" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
