@@ -1370,7 +1370,7 @@
           <mxGeometry x="165" y="430" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hq-IMZ3622WOX0n6sp1b-7" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="170" y="529" width="80" height="40" as="geometry" />
+          <mxGeometry x="170" y="575" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hq-IMZ3622WOX0n6sp1b-11" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="hq-IMZ3622WOX0n6sp1b-6" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1384,7 +1384,7 @@
             <mxPoint x="209.9999999999999" y="587" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xGZ1sEyNcyi7V3__IyXX-13" value="删除服饰" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="xGZ1sEyNcyi7V3__IyXX-13" value="访问修改服饰界面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="165" y="480" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LQuH-TfuI4j_76S0o5mS-1" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
